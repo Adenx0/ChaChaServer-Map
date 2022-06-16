@@ -1,23 +1,11 @@
 {
-  "redpack:red_sandstone_crafting_compability/red_sandstone_crafting_compability": {
+  "redpack:wood_stonecutter/recipes/oak/oak_stairs_from_stonecutting_4": {
     "criteria": {
-      "trigger": "2022-06-15 15:06:58 +0800"
+      "has_item_0": "2022-06-16 22:47:41 +0800"
     },
-    "done": true
+    "done": false
   },
   "redpack:red_sandstone_to_red_sand/red_sandstone_to_red_sand": {
-    "criteria": {
-      "trigger": "2022-06-15 15:06:58 +0800"
-    },
-    "done": true
-  },
-  "redpack:slab_to_full_block/slab_to_full_block": {
-    "criteria": {
-      "trigger": "2022-06-15 15:06:58 +0800"
-    },
-    "done": true
-  },
-  "redpack:enderman_no_grief/enderman_no_grief": {
     "criteria": {
       "trigger": "2022-06-15 15:06:58 +0800"
     },
@@ -29,33 +17,39 @@
     },
     "done": true
   },
-  "redpack:craftable_stripped_wood/craftable_stripped_wood": {
+  "minecraft:recipes/tools/wooden_axe": {
     "criteria": {
-      "trigger": "2022-06-15 15:06:58 +0800"
+      "has_the_recipe": "2022-06-16 22:48:56 +0800"
     },
     "done": true
   },
-  "redpack:craftable_large_fern/craftable_large_fern": {
+  "redpack:wood_stonecutter/recipes/oak/oak_fence_gate_from_stonecutting": {
     "criteria": {
-      "trigger": "2022-06-15 15:06:58 +0800"
+      "has_item_0": "2022-06-16 22:47:41 +0800"
+    },
+    "done": false
+  },
+  "redpack:craftable_colored_blocks/recipes/bed/blue_bed": {
+    "criteria": {
+      "has_item": "2022-06-16 22:50:50 +0800"
     },
     "done": true
   },
-  "redpack:quartz_stonecutter/quartz_stonecutter": {
+  "redpack:wood_stonecutter/recipes/oak/oak_stairs_from_stonecutting_2": {
     "criteria": {
-      "trigger": "2022-06-15 15:06:58 +0800"
+      "has_item_0": "2022-06-16 23:48:15 +0800"
     },
-    "done": true
+    "done": false
   },
-  "redpack:crafting": {
+  "redpack:wood_stonecutter/recipes/oak/oak_stairs_from_stonecutting_1": {
     "criteria": {
-      "trigger": "2022-06-15 15:06:58 +0800"
+      "has_item_1": "2022-06-16 22:48:25 +0800"
     },
-    "done": true
+    "done": false
   },
-  "redpack:craftable_ice/craftable_ice": {
+  "redpack:craftable_colored_blocks/recipes/bed/brown_bed": {
     "criteria": {
-      "trigger": "2022-06-15 15:06:58 +0800"
+      "has_item": "2022-06-16 22:50:50 +0800"
     },
     "done": true
   },
@@ -65,45 +59,21 @@
     },
     "done": true
   },
-  "redpack:craftable_corals/craftable_corals": {
-    "criteria": {
-      "trigger": "2022-06-15 15:06:58 +0800"
-    },
-    "done": true
-  },
-  "redpack:craftable_player_heads/craftable_player_heads": {
-    "criteria": {
-      "trigger": "2022-06-15 15:06:58 +0800"
-    },
-    "done": true
-  },
-  "redpack:craftable_packed_ice/craftable_packed_ice": {
-    "criteria": {
-      "trigger": "2022-06-15 15:06:58 +0800"
-    },
-    "done": true
-  },
-  "minecraft:adventure/adventuring_time": {
-    "criteria": {
-      "minecraft:forest": "2022-06-15 15:06:57 +0800"
-    },
-    "done": false
-  },
   "redpack:craftable_dead_bushes/craftable_dead_bushes": {
     "criteria": {
       "trigger": "2022-06-15 15:06:58 +0800"
     },
     "done": true
   },
-  "redpack:quartz_crafting_compability/quartz_crafting_compability": {
+  "minecraft:recipes/decorations/crafting_table": {
     "criteria": {
-      "trigger": "2022-06-15 15:06:58 +0800"
+      "has_planks": "2022-06-16 22:48:25 +0800"
     },
     "done": true
   },
-  "redpack:sandstone_crafting_compability/sandstone_crafting_compability": {
+  "minecraft:recipes/decorations/campfire": {
     "criteria": {
-      "trigger": "2022-06-15 15:06:58 +0800"
+      "has_stick": "2022-06-16 22:48:56 +0800"
     },
     "done": true
   },
@@ -113,15 +83,412 @@
     },
     "done": true
   },
-  "redpack:craftable_shulker_shells/craftable_shulker_shells": {
+  "redpack:wood_stonecutter/recipes/oak/oak_door_from_stonecutting_2": {
+    "criteria": {
+      "has_item_0": "2022-06-16 22:47:41 +0800"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/ladder": {
+    "criteria": {
+      "has_stick": "2022-06-16 22:48:56 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2022-06-16 22:55:02 +0800"
+    },
+    "done": true
+  },
+  "redpack:craftable_colored_blocks/recipes/bed/orange_bed": {
+    "criteria": {
+      "has_item": "2022-06-16 22:50:50 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2022-06-16 22:50:50 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_shovel": {
+    "criteria": {
+      "has_stick": "2022-06-16 22:48:56 +0800"
+    },
+    "done": true
+  },
+  "redpack:craftable_colored_blocks/recipes/bed/pink_bed": {
+    "criteria": {
+      "has_item": "2022-06-16 22:50:50 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/stick": {
+    "criteria": {
+      "has_planks": "2022-06-16 22:48:25 +0800"
+    },
+    "done": true
+  },
+  "redpack:wood_stonecutter/recipes/oak/oak_trapdoor_from_stonecutting": {
+    "criteria": {
+      "has_item_0": "2022-06-16 22:47:41 +0800"
+    },
+    "done": false
+  },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "in_water": "2022-06-16 22:45:19 +0800"
+    },
+    "done": true
+  },
+  "redpack:wood_stonecutter/recipes/oak/oak_sign_from_stonecutting_1": {
+    "criteria": {
+      "has_item_1": "2022-06-16 23:48:15 +0800"
+    },
+    "done": false
+  },
+  "redpack:wood_stonecutter/recipes/oak/oak_sign_from_stonecutting_2": {
+    "criteria": {
+      "has_item_0": "2022-06-16 22:47:41 +0800"
+    },
+    "done": false
+  },
+  "minecraft:recipes/combat/wooden_sword": {
+    "criteria": {
+      "has_stick": "2022-06-16 22:48:56 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_planks": {
+    "criteria": {
+      "has_logs": "2022-06-16 22:47:41 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2022-06-16 22:59:07 +0800"
+    },
+    "done": true
+  },
+  "woodenhoppers:recipes/oak_hopper": {
+    "criteria": {
+      "has_oak_planks": "2022-06-16 22:48:25 +0800"
+    },
+    "done": true
+  },
+  "redpack:craftable_colored_blocks/recipes/bed/red_bed": {
+    "criteria": {
+      "has_item": "2022-06-16 22:50:50 +0800"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "cooked_porkchop": "2022-06-16 22:54:31 +0800"
+    },
+    "done": false
+  },
+  "redpack:craftable_ice/craftable_ice": {
     "criteria": {
       "trigger": "2022-06-15 15:06:58 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_hoe": {
+    "criteria": {
+      "has_stick": "2022-06-16 22:48:56 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod": {
+    "criteria": {
+      "has_cod": "2022-06-16 22:58:16 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_pressure_plate": {
+    "criteria": {
+      "has_planks": "2022-06-16 22:48:25 +0800"
+    },
+    "done": true
+  },
+  "redpack:craftable_colored_blocks/recipes/bed/purple_bed": {
+    "criteria": {
+      "has_item": "2022-06-16 22:50:50 +0800"
+    },
+    "done": true
+  },
+  "redpack:craftable_packed_ice/craftable_packed_ice": {
+    "criteria": {
+      "trigger": "2022-06-15 15:06:58 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smoking": {
+    "criteria": {
+      "has_kelp": "2022-06-16 23:07:54 +0800"
+    },
+    "done": true
+  },
+  "redpack:craftable_colored_blocks/recipes/bed/magenta_bed": {
+    "criteria": {
+      "has_item": "2022-06-16 22:50:50 +0800"
     },
     "done": true
   },
   "redpack:craftable_tall_grass/craftable_tall_grass": {
     "criteria": {
       "trigger": "2022-06-15 15:06:58 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2022-06-16 22:50:50 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_wood": {
+    "criteria": {
+      "has_log": "2022-06-16 22:47:41 +0800"
+    },
+    "done": true
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2022-06-16 22:48:29 +0800"
+    },
+    "done": true
+  },
+  "redpack:fast_redstone_crafting/recipes/dispenser/dispenser1": {
+    "criteria": {
+      "has_item_1": "2022-06-16 22:48:56 +0800"
+    },
+    "done": false
+  },
+  "redpack:wood_stonecutter/recipes/oak/oak_fence_from_stonecutting_2": {
+    "criteria": {
+      "has_item_0": "2022-06-16 23:48:15 +0800"
+    },
+    "done": false
+  },
+  "minecraft:recipes/combat/crossbow": {
+    "criteria": {
+      "has_stick": "2022-06-16 22:48:56 +0800"
+    },
+    "done": true
+  },
+  "redpack:fast_redstone_crafting/fast_redstone_crafting": {
+    "criteria": {
+      "trigger": "2022-06-15 15:06:58 +0800"
+    },
+    "done": true
+  },
+  "redpack:wood_stonecutter/recipes/oak/oak_fence_from_stonecutting_4": {
+    "criteria": {
+      "has_item_0": "2022-06-16 22:47:41 +0800"
+    },
+    "done": false
+  },
+  "redpack:wood_stonecutter/wood_stonecutter": {
+    "criteria": {
+      "trigger": "2022-06-15 15:06:58 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/oak_sign": {
+    "criteria": {
+      "has_oak_planks": "2022-06-16 22:48:25 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_trapdoor": {
+    "criteria": {
+      "has_planks": "2022-06-16 22:48:25 +0800"
+    },
+    "done": true
+  },
+  "redpack:craftable_colored_blocks/craftable_colored_blocks": {
+    "criteria": {
+      "trigger": "2022-06-15 15:06:58 +0800"
+    },
+    "done": true
+  },
+  "redpack:craftable_colored_blocks/recipes/bed/green_bed": {
+    "criteria": {
+      "has_item": "2022-06-16 22:50:50 +0800"
+    },
+    "done": true
+  },
+  "redpack:sandstone_stonecutter/sandstone_stonecutter": {
+    "criteria": {
+      "trigger": "2022-06-15 15:06:58 +0800"
+    },
+    "done": true
+  },
+  "redpack:wood_stonecutter/recipes/oak/oak_fence_from_stonecutting_1": {
+    "criteria": {
+      "has_item_1": "2022-06-16 22:48:25 +0800"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/light_blue_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2022-06-16 22:50:50 +0800"
+    },
+    "done": true
+  },
+  "redpack:craftable_colored_blocks/recipes/bed/lime_bed": {
+    "criteria": {
+      "has_item": "2022-06-16 22:50:50 +0800"
+    },
+    "done": true
+  },
+  "redpack:slab_to_full_block/slab_to_full_block": {
+    "criteria": {
+      "trigger": "2022-06-15 15:06:58 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2022-06-16 22:48:25 +0800"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:zombie": "2022-06-16 23:48:33 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/magenta_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2022-06-16 22:50:50 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_button": {
+    "criteria": {
+      "has_planks": "2022-06-16 22:48:25 +0800"
+    },
+    "done": true
+  },
+  "redpack:wood_stonecutter/recipes/oak/oak_pressure_plate_from_stonecutting_2": {
+    "criteria": {
+      "has_item_0": "2022-06-16 22:47:41 +0800"
+    },
+    "done": false
+  },
+  "redpack:wood_stonecutter/recipes/oak/oak_pressure_plate_from_stonecutting_1": {
+    "criteria": {
+      "has_item_0": "2022-06-16 23:48:15 +0800"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/orange_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2022-06-16 22:50:50 +0800"
+    },
+    "done": true
+  },
+  "redpack:wood_stonecutter/recipes/oak/oak_button_from_stonecutting_4": {
+    "criteria": {
+      "has_item_0": "2022-06-16 22:47:41 +0800"
+    },
+    "done": false
+  },
+  "redpack:craftable_colored_blocks/recipes/bed/black_bed": {
+    "criteria": {
+      "has_item": "2022-06-16 22:50:50 +0800"
+    },
+    "done": true
+  },
+  "redpack:craftable_large_fern/craftable_large_fern": {
+    "criteria": {
+      "trigger": "2022-06-15 15:06:58 +0800"
+    },
+    "done": true
+  },
+  "redpack:craftable_colored_blocks/recipes/bed/yellow_bed": {
+    "criteria": {
+      "has_item": "2022-06-16 22:50:50 +0800"
+    },
+    "done": true
+  },
+  "redpack:craftable_colored_blocks/recipes/bed/light_blue_bed": {
+    "criteria": {
+      "has_item": "2022-06-16 22:50:50 +0800"
+    },
+    "done": true
+  },
+  "redpack:craftable_player_heads/craftable_player_heads": {
+    "criteria": {
+      "trigger": "2022-06-15 15:06:58 +0800"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:cold_ocean": "2022-06-16 23:07:49 +0800",
+      "minecraft:forest": "2022-06-15 15:06:57 +0800",
+      "minecraft:mountains": "2022-06-16 22:52:10 +0800",
+      "minecraft:beach": "2022-06-16 22:44:14 +0800",
+      "minecraft:river": "2022-06-16 22:57:08 +0800",
+      "minecraft:wooded_hills": "2022-06-16 22:37:39 +0800",
+      "minecraft:swamp": "2022-06-16 23:06:55 +0800",
+      "minecraft:plains": "2022-06-16 22:41:00 +0800"
+    },
+    "done": false
+  },
+  "redpack:quartz_crafting_compability/quartz_crafting_compability": {
+    "criteria": {
+      "trigger": "2022-06-15 15:06:58 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/charcoal": {
+    "criteria": {
+      "has_log": "2022-06-16 22:47:41 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/purple_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2022-06-16 22:50:50 +0800"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2022-06-16 22:51:07 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_pickaxe": {
+    "criteria": {
+      "has_stick": "2022-06-16 22:48:56 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smelting": {
+    "criteria": {
+      "has_kelp": "2022-06-16 23:07:54 +0800"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2022-06-16 22:54:31 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "in_water": "2022-06-16 22:45:19 +0800"
     },
     "done": true
   },
@@ -137,15 +504,225 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/oak_stairs": {
+    "criteria": {
+      "has_planks": "2022-06-16 22:48:25 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/barrel": {
+    "criteria": {
+      "has_planks": "2022-06-16 22:48:25 +0800"
+    },
+    "done": true
+  },
+  "redpack:fast_redstone_crafting/recipes/repeater/repeater1": {
+    "criteria": {
+      "has_item_1": "2022-06-16 22:48:56 +0800"
+    },
+    "done": false
+  },
+  "redpack:stonecutter": {
+    "criteria": {
+      "trigger": "2022-06-15 15:06:58 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "in_water": "2022-06-16 22:45:19 +0800"
+    },
+    "done": true
+  },
+  "redpack:wood_stonecutter/recipes/oak/oak_button_from_stonecutting_1": {
+    "criteria": {
+      "has_item_0": "2022-06-16 22:48:25 +0800"
+    },
+    "done": false
+  },
+  "redpack:wood_stonecutter/recipes/oak/oak_button_from_stonecutting_2": {
+    "criteria": {
+      "has_item_0": "2022-06-16 23:48:15 +0800"
+    },
+    "done": false
+  },
+  "minecraft:recipes/redstone/oak_door": {
+    "criteria": {
+      "has_planks": "2022-06-16 22:48:25 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cyan_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2022-06-16 22:50:50 +0800"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2022-06-16 23:48:33 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "in_water": "2022-06-16 22:45:19 +0800"
+    },
+    "done": true
+  },
+  "redpack:wood_stonecutter/recipes/oak/oak_planks_from_stonecutting_4": {
+    "criteria": {
+      "has_item_0": "2022-06-16 22:47:41 +0800"
+    },
+    "done": false
+  },
+  "redpack:red_sandstone_stonecutter/red_sandstone_stonecutter": {
+    "criteria": {
+      "trigger": "2022-06-15 15:06:58 +0800"
+    },
+    "done": true
+  },
+  "redpack:red_sandstone_crafting_compability/red_sandstone_crafting_compability": {
+    "criteria": {
+      "trigger": "2022-06-15 15:06:58 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2022-06-16 22:50:50 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lime_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2022-06-16 22:50:50 +0800"
+    },
+    "done": true
+  },
+  "redpack:wood_stonecutter/recipes/oak/oak_planks_from_stonecutting_2": {
+    "criteria": {
+      "has_item_0": "2022-06-16 23:48:15 +0800"
+    },
+    "done": false
+  },
+  "redpack:enderman_no_grief/enderman_no_grief": {
+    "criteria": {
+      "trigger": "2022-06-15 15:06:58 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "in_water": "2022-06-16 22:45:19 +0800"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:zombie": "2022-06-16 23:48:33 +0800"
+    },
+    "done": false
+  },
+  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
+    "criteria": {
+      "has_kelp": "2022-06-16 23:07:54 +0800"
+    },
+    "done": true
+  },
+  "redpack:craftable_dead_bushes/recipes/dead_bush": {
+    "criteria": {
+      "has_item": "2022-06-16 22:49:33 +0800"
+    },
+    "done": true
+  },
+  "redpack:craftable_stripped_wood/craftable_stripped_wood": {
+    "criteria": {
+      "trigger": "2022-06-15 15:06:58 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2022-06-16 22:50:50 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/green_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2022-06-16 22:50:50 +0800"
+    },
+    "done": true
+  },
+  "redpack:quartz_stonecutter/quartz_stonecutter": {
+    "criteria": {
+      "trigger": "2022-06-15 15:06:58 +0800"
+    },
+    "done": true
+  },
+  "redpack:crafting": {
+    "criteria": {
+      "trigger": "2022-06-15 15:06:58 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/mojang_banner_pattern": {
+    "criteria": {
+      "has_enchanted_golden_apple": "2022-06-16 22:50:40 +0800"
+    },
+    "done": true
+  },
+  "redpack:craftable_colored_blocks/recipes/bed/cyan_bed": {
+    "criteria": {
+      "has_item": "2022-06-16 22:50:50 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_smoking": {
+    "criteria": {
+      "has_cod": "2022-06-16 22:58:16 +0800"
+    },
+    "done": true
+  },
+  "redpack:craftable_corals/craftable_corals": {
+    "criteria": {
+      "trigger": "2022-06-15 15:06:58 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/pink_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2022-06-16 22:50:50 +0800"
+    },
+    "done": true
+  },
+  "redpack:sandstone_crafting_compability/sandstone_crafting_compability": {
+    "criteria": {
+      "trigger": "2022-06-15 15:06:58 +0800"
+    },
+    "done": true
+  },
+  "redpack:craftable_shulker_shells/craftable_shulker_shells": {
+    "criteria": {
+      "trigger": "2022-06-15 15:06:58 +0800"
+    },
+    "done": true
+  },
   "redpack:redpack": {
     "criteria": {
       "trigger": "2022-06-15 15:06:58 +0800"
     },
     "done": true
   },
-  "redpack:stonecutter": {
+  "redpack:craftable_colored_blocks/recipes/bed/light_gray_bed": {
     "criteria": {
-      "trigger": "2022-06-15 15:06:58 +0800"
+      "has_item": "2022-06-16 22:50:50 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2022-06-16 22:50:50 +0800"
     },
     "done": true
   },
@@ -155,9 +732,27 @@
     },
     "done": true
   },
-  "redpack:fast_redstone_crafting/fast_redstone_crafting": {
+  "minecraft:recipes/decorations/oak_fence": {
     "criteria": {
-      "trigger": "2022-06-15 15:06:58 +0800"
+      "has_planks": "2022-06-16 22:48:25 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_boat": {
+    "criteria": {
+      "in_water": "2022-06-16 22:45:19 +0800"
+    },
+    "done": true
+  },
+  "redpack:wood_stonecutter/recipes/oak/oak_slab_from_stonecutting_8": {
+    "criteria": {
+      "has_item_0": "2022-06-16 22:47:41 +0800"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/soul_campfire": {
+    "criteria": {
+      "has_stick": "2022-06-16 22:48:56 +0800"
     },
     "done": true
   },
@@ -173,27 +768,45 @@
     },
     "done": true
   },
-  "redpack:wood_stonecutter/wood_stonecutter": {
+  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
     "criteria": {
-      "trigger": "2022-06-15 15:06:58 +0800"
+      "has_cod": "2022-06-16 22:58:16 +0800"
     },
     "done": true
   },
-  "redpack:craftable_colored_blocks/craftable_colored_blocks": {
+  "redpack:wood_stonecutter/recipes/oak/oak_slab_from_stonecutting_4": {
     "criteria": {
-      "trigger": "2022-06-15 15:06:58 +0800"
+      "has_item_0": "2022-06-16 23:48:15 +0800"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/blue_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2022-06-16 22:50:50 +0800"
     },
     "done": true
   },
-  "redpack:sandstone_stonecutter/sandstone_stonecutter": {
+  "minecraft:recipes/building_blocks/oak_slab": {
     "criteria": {
-      "trigger": "2022-06-15 15:06:58 +0800"
+      "has_planks": "2022-06-16 22:48:25 +0800"
     },
     "done": true
   },
-  "redpack:red_sandstone_stonecutter/red_sandstone_stonecutter": {
+  "redpack:craftable_colored_blocks/recipes/bed/gray_bed": {
     "criteria": {
-      "trigger": "2022-06-15 15:06:58 +0800"
+      "has_item": "2022-06-16 22:50:50 +0800"
+    },
+    "done": true
+  },
+  "redpack:wood_stonecutter/recipes/oak/oak_slab_from_stonecutting_2": {
+    "criteria": {
+      "has_item_0": "2022-06-16 22:48:25 +0800"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/light_gray_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2022-06-16 22:50:50 +0800"
     },
     "done": true
   },
