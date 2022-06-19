@@ -851,6 +851,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_basalt_from_basalt_stonecutting": {
+    "criteria": {
+      "has_basalt": "2022-06-19 13:31:53 +0800"
+    },
+    "done": true
+  },
   "redpack:craftable_colored_blocks/recipes/wool/purple_wool": {
     "criteria": {
       "has_item": "2022-06-17 12:02:42 +0800"
@@ -2081,7 +2087,8 @@
     "criteria": {
       "minecraft:crimson_forest": "2022-06-17 21:18:11 +0800",
       "minecraft:nether_wastes": "2022-06-17 21:28:12 +0800",
-      "minecraft:soul_sand_valley": "2022-06-18 15:25:45 +0800"
+      "minecraft:soul_sand_valley": "2022-06-18 15:25:45 +0800",
+      "minecraft:basalt_deltas": "2022-06-19 13:31:52 +0800"
     },
     "done": false
   },
@@ -3810,6 +3817,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_basalt": {
+    "criteria": {
+      "has_basalt": "2022-06-19 13:31:53 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_wood": {
     "criteria": {
       "has_log": "2022-06-17 11:52:41 +0800"
@@ -3909,6 +3922,12 @@
   "redpack:craftable_colored_blocks/recipes/bed/lime_bed": {
     "criteria": {
       "has_item": "2022-06-17 13:13:43 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/quartz_from_blasting": {
+    "criteria": {
+      "has_nether_quartz_ore": "2022-06-19 13:28:47 +0800"
     },
     "done": true
   },
@@ -4296,6 +4315,12 @@
   "redpack:craftable_shulker_shells/craftable_shulker_shells": {
     "criteria": {
       "trigger": "2022-06-17 11:52:24 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/quartz": {
+    "criteria": {
+      "has_nether_quartz_ore": "2022-06-19 13:28:47 +0800"
     },
     "done": true
   },

@@ -1,5 +1,4 @@
-[20:30:34] [main/INFO]: Loading Minecraft 1.16.5 with Fabric Loader 0.14.7
-[20:30:34] [main/INFO]: Loading 68 mods:
+[06:12:54] [main/INFO]: Loading 68 mods:
 	- architectury 1.32.63
 	- autoconfig1u 3.3.1
 	- carpet 1.4.44
@@ -68,266 +67,414 @@
 	- roughlyenoughitems-runtime 5.12.385 via roughlyenoughitems
 	- torcherino 14.0.1
 	- woodenhoppers 1.0.0
-[20:30:34] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=file:/D:/minecraft/ChaChaServer/server/libraries/net/fabricmc/sponge-mixin/0.11.4+mixin.0.8.5/sponge-mixin-0.11.4+mixin.0.8.5.jar Service=Knot/Fabric Env=SERVER
-[20:30:35] [main/INFO]: Loaded configuration file for Lithium: 80 options available, 1 override(s) found
-[20:30:37] [main/WARN]: Force-disabling mixin 'world.player_chunk_tick.ThreadedAnvilChunkStorageMixin' as rule 'mixin.world.player_chunk_tick' (added by mods [krypton]) disables it and children
-[20:30:42] [main/INFO]: Using Java 9+ class definer
-[20:30:50] [main/INFO]: Starting provider: Item Tags
-[20:30:50] [main/INFO]: Item Tags finished after 2 ms
-[20:30:50] [main/INFO]: All providers took: 4 ms
-[20:30:51] [main/INFO]: Compression will use Java 11, encryption will use Java
-[20:30:52] [TISCM Mapping/INFO]: Yarn mapping file yarn-1.16.5+build.10-v2.tiny loaded
-[20:30:52] [main/INFO]: Ivan Carpet Addition 2.1.0 loaded
-[20:30:52] [main/INFO]: Thank you for using ICA!
-[20:30:52] [main/INFO]: ICA is open source, u can find it here: https://github.com/Ivan-1F/Ivan-Carpet-Addition
-[20:30:52] [main/INFO]: ICA is still in development, it may not work well
-[20:30:52] [main/INFO]: If u find any bug, please report them here: https://github.com/Ivan-1F/Ivan-Carpet-Addition/issues
-[20:30:52] [main/INFO]: Krypton is now accelerating your Minecraft server's networking stack ?
-[20:30:52] [main/INFO]: [STDOUT]: Starting Mo Glass...
-[20:30:53] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[20:30:54] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[20:30:54] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[20:30:54] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[20:30:54] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[20:30:54] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[20:30:55] [main/INFO]: Reloading ResourceManager: Default, Fabric Mods (Croptopia, Fabric Tool Attribute API (v1), Golden Hoppers, Improved Stations, Mo Glass, More Berries, Patchouli, Torcherino, Wooden Hoppers), RedPack - Quartz Stonecutter.zip, RedPack - Craftable Tall Grass.zip, RedPack - Craftable Large Fern.zip, RedPack - Fast Redstone Crafting.zip, RedPack - Red Sandstone to Red Sand.zip, RedPack - Enderman No Grief.zip, RedPack - Red Sandstone Crafting Compatibility.zip, RedPack - Wood Stonecutter.zip, RedPack - Craftable Corals.zip, RedPack - Husk Drops Sand.zip, RedPack - Craftable Colored Blocks.zip, RedPack - Craftable Dead Bushes.zip, RedPack - Craftable Shulker Shells.zip, RedPack - Craftable Player Heads.zip, RedPack - Craftable Elytra.zip, RedPack - Red Sandstone Stonecutter.zip, RedPack - Craftable Cobwebs.zip, RedPack - Quartz Crafting Compatibility.zip, RedPack - Slab to Full Block.zip, RedPack - Craftable Quartz.zip, RedPack - Sandstone Stonecutter.zip, RedPack - Craftable Bricks.zip, RedPack - Craftable Ice.zip, RedPack - Craftable Packed Ice.zip, RedPack - Sandstone to Sand.zip, RedPack - Sandstone Crafting Compatibility.zip, RedPack - Craftable Stripped Wood.zip, RedPack - Better Armor Stands.zip
-[20:30:57] [Worker-Main-6/INFO]: Loaded 7 recipes
-[20:30:58] [Worker-Main-6/INFO]: Loaded 1579 advancements
-[20:30:59] [main/INFO]: Applied 121 biome modifications to 28 of 79 new biomes in 31.76 ms
-[20:30:59] [Server thread/INFO]: Starting minecraft server version 1.16.5
-[20:30:59] [Server thread/INFO]: Loading properties
-[20:30:59] [Server thread/INFO]: Default game type: SURVIVAL
-[20:30:59] [Server thread/INFO]: Generating keypair
-[20:31:00] [Server thread/INFO]: Starting Minecraft server on *:25565
-[20:31:00] [Server thread/INFO]: Using default channel type
-[20:31:00] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[20:31:00] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[20:31:00] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[20:31:00] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[20:31:00] [Server thread/INFO]: Preparing level "world"
-[20:31:00] [Server thread/INFO]: [CM]: loaded setting dispensersFireDragonBreath as true from carpet.conf
-[20:31:00] [Server thread/INFO]: [CM]: loaded setting tooledTNT as true from carpet.conf
-[20:31:00] [Server thread/INFO]: [CM]: loaded setting hopperMinecartItemTransfer as true from carpet.conf
-[20:31:00] [Server thread/INFO]: [CM]: loaded setting renewableDragonHead as true from carpet.conf
-[20:31:00] [Server thread/INFO]: [CM]: loaded setting hopperNoItemCost as true from carpet.conf
-[20:31:00] [Server thread/INFO]: [CM]: loaded setting language as zh_cn from carpet.conf
-[20:31:00] [Server thread/INFO]: [CM]: loaded setting fogOff as true from carpet.conf
-[20:31:00] [Server thread/INFO]: [CM]: loaded setting renewableWitherSkeletons as true from carpet.conf
-[20:31:00] [Server thread/INFO]: [CM]: loaded setting spiderJockeysDropGapples as 100 from carpet.conf
-[20:31:00] [Server thread/INFO]: [CM]: loaded setting creativeOpenContainerForcibly as true from carpet.conf
-[20:31:00] [Server thread/INFO]: [CM]: loaded setting betterBonemeal as true from carpet.conf
-[20:31:00] [Server thread/INFO]: [CM]: loaded setting dragonEggBedrockBreaking as true from carpet.conf
-[20:31:00] [Server thread/INFO]: [CM]: loaded setting mobInFireConvertsSandToSoulsand as true from carpet.conf
-[20:31:00] [Server thread/INFO]: [CM]: loaded setting renewableLava as true from carpet.conf
-[20:31:00] [Server thread/INFO]: [CM]: loaded setting y0DragonEggBedrockBreaking as true from carpet.conf
-[20:31:00] [Server thread/INFO]: [CM]: loaded setting creeperDropCompletely as true from carpet.conf
-[20:31:00] [Server thread/INFO]: [CM]: loaded setting commandSpawn as true from carpet.conf
-[20:31:00] [Server thread/INFO]: [CM]: loaded setting shulkerSpawningInEndCities as true from carpet.conf
-[20:31:00] [Server thread/INFO]: [CM]: loaded setting largeBarrel as true from carpet.conf
-[20:31:00] [Server thread/INFO]: [CM]: loaded setting stackableShulkerBoxes as true from carpet.conf
-[20:31:00] [Server thread/INFO]: [CM]: loaded setting onePlayerSleeping as true from carpet.conf
-[20:31:00] [Server thread/INFO]: [CM]: loaded setting unbreakableHelmetInSunlight as true from carpet.conf
-[20:31:00] [Server thread/INFO]: [CM]: loaded setting functionalSpongeItem as true from carpet.conf
-[20:31:00] [Server thread/INFO]: [CM]: loaded setting smoothClientAnimations as true from carpet.conf
-[20:31:00] [Server thread/INFO]: [CM]: loaded setting persistentParrots as true from carpet.conf
-[20:31:00] [Server thread/INFO]: [CM]: loaded setting synchronizedLightThread as true from carpet.conf
-[20:31:00] [Server thread/INFO]: [CM]: loaded setting blockStateSyncing as true from carpet.conf
-[20:31:00] [Server thread/INFO]: [CM]: loaded setting wetSpongeAbsorbLava as true from carpet.conf
-[20:31:00] [Server thread/INFO]: [CM]: loaded setting clientSettingsLostOnRespawnFix as true from carpet.conf
-[20:31:00] [Server thread/INFO]: [CM]: loaded setting cauldronBlockItemInteractFix as true from carpet.conf
-[20:31:00] [Server thread/INFO]: [CM]: loaded setting editableSign as true from carpet.conf
-[20:31:00] [Server thread/INFO]: [CM]: loaded setting dispensersPlayRecords as true from carpet.conf
-[20:31:00] [Server thread/INFO]: [CM]: loaded setting endLightningRod as true from carpet.conf
-[20:31:00] [Server thread/INFO]: [CM]: loaded setting ctrlQCraftingFix as true from carpet.conf
-[20:31:00] [Server thread/INFO]: [CM]: loaded setting endermitesInconsistencyFix as true from carpet.conf
-[20:31:00] [Server thread/INFO]: [CM]: loaded setting xpTrackingDistance as 32.0 from carpet.conf
-[20:31:00] [Server thread/INFO]: [CM]: loaded setting optimizedFastEntityMovement as true from carpet.conf
-[20:31:00] [Server thread/INFO]: [CM]: loaded setting renewableSoulSand as true from carpet.conf
-[20:31:00] [Server thread/INFO]: [CM]: loaded setting enchantCommandNoRestriction as true from carpet.conf
-[20:31:00] [Server thread/INFO]: [CM]: loaded setting dragonsBreathConvertsCobbleToEndstone as true from carpet.conf
-[20:31:00] [Server thread/INFO]: [CM]: loaded setting renewableElytra as 1.0 from carpet.conf
-[20:31:00] [Server thread/INFO]: [CM]: loaded setting updateSuppressionCrashFix as true from carpet.conf
-[20:31:00] [Server thread/INFO]: [CM]: loaded setting reloadSuffocationFix as true from carpet.conf
-[20:31:00] [Server thread/INFO]: [CM]: loaded setting optimizedHardHitBoxEntityCollision as true from carpet.conf
-[20:31:00] [Server thread/INFO]: [CM]: loaded setting emptyShulkerBoxStackAlways as true from carpet.conf
-[20:31:00] [Server thread/INFO]: [CM]: loaded setting farmlandTrampledDisabled as true from carpet.conf
-[20:31:01] [Server thread/INFO]: [CM]: loaded setting commandOperator as 4 from carpet.conf
-[20:31:01] [Server thread/INFO]: [CM]: loaded setting flowerPotChunkLoading as true from carpet.conf
-[20:31:01] [Server thread/INFO]: [CM]: loaded setting fireChargeConvertsToNetherrack as true from carpet.conf
-[20:31:01] [Server thread/INFO]: [CM]: loaded setting blazeMeal as true from carpet.conf
-[20:31:01] [Server thread/INFO]: [CM]: loaded setting renewableSand as true from carpet.conf
-[20:31:01] [Server thread/INFO]: [CM]: loaded setting renewableDragonEgg as true from carpet.conf
-[20:31:01] [Server thread/INFO]: [CM]: loaded setting flippinCactus as true from carpet.conf
-[20:31:01] [Server thread/INFO]: [CM]: loaded setting lagFreeSpawning as true from carpet.conf
-[20:31:01] [Netty Server IO #1/WARN]: Method overwrite conflict for getLanguage in carpet-tis-addition.mixins.json:translations.ClientSettingsC2SPacketAccessor from mod carpet-tis-addition, previously written by carpet.mixins.ClientSettingsC2SPacket_scarpetMixin. Skipping method.
-[20:31:02] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[20:31:04] [Server thread/INFO]: Preparing spawn area: 0%
-[20:31:04] [Server thread/INFO]: Preparing spawn area: 0%
-[20:31:04] [Server thread/INFO]: Preparing spawn area: 0%
-[20:31:04] [Server thread/INFO]: Preparing spawn area: 0%
-[20:31:04] [Server thread/INFO]: Preparing spawn area: 0%
-[20:31:04] [Server thread/INFO]: Preparing spawn area: 52%
-[20:31:05] [Server thread/INFO]: Time elapsed: 2880 ms
-[20:31:05] [Server thread/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[20:31:05] [Server thread/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[20:31:05] [Server thread/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[20:31:05] [Server thread/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[20:31:05] [Server thread/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[20:31:05] [Server thread/INFO]: Reloading ResourceManager: Default, Fabric Mods (Croptopia, Fabric Tool Attribute API (v1), Golden Hoppers, Improved Stations, Mo Glass, More Berries, Patchouli, Torcherino, Wooden Hoppers)
-[20:31:05] [Server thread/INFO]: Loaded 7 recipes
-[20:31:06] [Server thread/INFO]: Loaded 947 advancements
-[20:31:07] [Server thread/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[20:31:07] [Server thread/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[20:31:07] [Server thread/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[20:31:07] [Server thread/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[20:31:07] [Server thread/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[20:31:07] [Server thread/INFO]: Reloading ResourceManager: Default, Fabric Mods (Croptopia, Fabric Tool Attribute API (v1), Golden Hoppers, Improved Stations, Mo Glass, More Berries, Patchouli, Torcherino, Wooden Hoppers), RedPack - Quartz Stonecutter.zip, RedPack - Craftable Tall Grass.zip, RedPack - Craftable Large Fern.zip, RedPack - Fast Redstone Crafting.zip, RedPack - Red Sandstone to Red Sand.zip, RedPack - Enderman No Grief.zip, RedPack - Red Sandstone Crafting Compatibility.zip, RedPack - Wood Stonecutter.zip, RedPack - Craftable Corals.zip, RedPack - Husk Drops Sand.zip, RedPack - Craftable Colored Blocks.zip, RedPack - Craftable Dead Bushes.zip, RedPack - Craftable Shulker Shells.zip, RedPack - Craftable Player Heads.zip, RedPack - Craftable Elytra.zip, RedPack - Red Sandstone Stonecutter.zip, RedPack - Craftable Cobwebs.zip, RedPack - Quartz Crafting Compatibility.zip, RedPack - Slab to Full Block.zip, RedPack - Craftable Quartz.zip, RedPack - Sandstone Stonecutter.zip, RedPack - Craftable Bricks.zip, RedPack - Craftable Ice.zip, RedPack - Craftable Packed Ice.zip, RedPack - Sandstone to Sand.zip, RedPack - Sandstone Crafting Compatibility.zip, RedPack - Craftable Stripped Wood.zip, RedPack - Better Armor Stands.zip
-[20:31:08] [Server thread/INFO]: Loaded 7 recipes
-[20:31:08] [Server thread/INFO]: Loaded 1579 advancements
-[20:31:09] [Server thread/INFO]: App placeableplants loaded in 53 ms
-[20:31:09] [Server thread/INFO]: App colorableshulkers loaded in 9 ms
-[20:31:09] [Server thread/WARN]: 'entity_load_handler() with single argument callback' is deprecated and soon will be removed. Please consult the docs for their replacement
-[20:31:09] [Server thread/INFO]: 'entity_load_handler() with single argument callback' is deprecated and soon will be removed. Please consult the docs for their replacement
-[20:31:09] [Server thread/INFO]: App dragoneggrespawns loaded in 77 ms
-[20:31:09] [Server thread/WARN]: 'entity_load_handler() with single argument callback' is deprecated and soon will be removed. Please consult the docs for their replacement
-[20:31:09] [Server thread/INFO]: 'entity_load_handler() with single argument callback' is deprecated and soon will be removed. Please consult the docs for their replacement
-[20:31:09] [Server thread/INFO]: Error while evaluating expression: 
+[06:12:54] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=file:/D:/minecraft/ChaChaServer/server/libraries/net/fabricmc/sponge-mixin/0.11.4+mixin.0.8.5/sponge-mixin-0.11.4+mixin.0.8.5.jar Service=Knot/Fabric Env=SERVER
+[06:12:54] [main/INFO]: Loaded configuration file for Lithium: 80 options available, 1 override(s) found
+[06:12:55] [main/WARN]: Force-disabling mixin 'world.player_chunk_tick.ThreadedAnvilChunkStorageMixin' as rule 'mixin.world.player_chunk_tick' (added by mods [krypton]) disables it and children
+[06:12:58] [main/INFO]: Using Java 9+ class definer
+[06:13:05] [main/INFO]: Starting provider: Item Tags
+[06:13:05] [main/INFO]: Item Tags finished after 1 ms
+[06:13:05] [main/INFO]: All providers took: 3 ms
+[06:13:05] [main/INFO]: Compression will use Java 11, encryption will use Java
+[06:13:06] [TISCM Mapping/INFO]: Yarn mapping file yarn-1.16.5+build.10-v2.tiny loaded
+[06:13:06] [main/INFO]: Ivan Carpet Addition 2.1.0 loaded
+[06:13:06] [main/INFO]: Thank you for using ICA!
+[06:13:06] [main/INFO]: ICA is open source, u can find it here: https://github.com/Ivan-1F/Ivan-Carpet-Addition
+[06:13:06] [main/INFO]: ICA is still in development, it may not work well
+[06:13:06] [main/INFO]: If u find any bug, please report them here: https://github.com/Ivan-1F/Ivan-Carpet-Addition/issues
+[06:13:06] [main/INFO]: Krypton is now accelerating your Minecraft server's networking stack ?
+[06:13:07] [main/INFO]: [STDOUT]: Starting Mo Glass...
+[06:13:07] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[06:13:08] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[06:13:08] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[06:13:08] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[06:13:08] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[06:13:08] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[06:13:09] [main/INFO]: Reloading ResourceManager: Default, Fabric Mods (Croptopia, Fabric Tool Attribute API (v1), Golden Hoppers, Improved Stations, Mo Glass, More Berries, Patchouli, Torcherino, Wooden Hoppers), RedPack - Quartz Stonecutter.zip, RedPack - Craftable Tall Grass.zip, RedPack - Craftable Large Fern.zip, RedPack - Fast Redstone Crafting.zip, RedPack - Red Sandstone to Red Sand.zip, RedPack - Enderman No Grief.zip, RedPack - Red Sandstone Crafting Compatibility.zip, RedPack - Wood Stonecutter.zip, RedPack - Craftable Corals.zip, RedPack - Husk Drops Sand.zip, RedPack - Craftable Colored Blocks.zip, RedPack - Craftable Dead Bushes.zip, RedPack - Craftable Shulker Shells.zip, RedPack - Craftable Player Heads.zip, RedPack - Craftable Elytra.zip, RedPack - Red Sandstone Stonecutter.zip, RedPack - Craftable Cobwebs.zip, RedPack - Quartz Crafting Compatibility.zip, RedPack - Slab to Full Block.zip, RedPack - Craftable Quartz.zip, RedPack - Sandstone Stonecutter.zip, RedPack - Craftable Bricks.zip, RedPack - Craftable Ice.zip, RedPack - Craftable Packed Ice.zip, RedPack - Sandstone to Sand.zip, RedPack - Sandstone Crafting Compatibility.zip, RedPack - Craftable Stripped Wood.zip, RedPack - Better Armor Stands.zip
+[06:13:10] [Worker-Main-6/INFO]: Loaded 7 recipes
+[06:13:11] [Worker-Main-6/INFO]: Loaded 1579 advancements
+[06:13:12] [main/INFO]: Applied 121 biome modifications to 28 of 79 new biomes in 40.41 ms
+[06:13:12] [Server thread/INFO]: Starting minecraft server version 1.16.5
+[06:13:12] [Server thread/INFO]: Loading properties
+[06:13:12] [Server thread/INFO]: Default game type: SURVIVAL
+[06:13:12] [Server thread/INFO]: Generating keypair
+[06:13:12] [Server thread/INFO]: Starting Minecraft server on *:25565
+[06:13:13] [Server thread/INFO]: Using default channel type
+[06:13:13] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[06:13:13] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[06:13:13] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[06:13:13] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[06:13:13] [Server thread/INFO]: Preparing level "world"
+[06:13:13] [Server thread/INFO]: [CM]: loaded setting dispensersFireDragonBreath as true from carpet.conf
+[06:13:13] [Server thread/INFO]: [CM]: loaded setting tooledTNT as true from carpet.conf
+[06:13:13] [Server thread/INFO]: [CM]: loaded setting hopperMinecartItemTransfer as true from carpet.conf
+[06:13:13] [Server thread/INFO]: [CM]: loaded setting renewableDragonHead as true from carpet.conf
+[06:13:13] [Server thread/INFO]: [CM]: loaded setting hopperNoItemCost as true from carpet.conf
+[06:13:13] [Server thread/INFO]: [CM]: loaded setting language as zh_cn from carpet.conf
+[06:13:13] [Server thread/INFO]: [CM]: loaded setting fogOff as true from carpet.conf
+[06:13:13] [Server thread/INFO]: [CM]: loaded setting renewableWitherSkeletons as true from carpet.conf
+[06:13:13] [Server thread/INFO]: [CM]: loaded setting spiderJockeysDropGapples as 100 from carpet.conf
+[06:13:13] [Server thread/INFO]: [CM]: loaded setting creativeOpenContainerForcibly as true from carpet.conf
+[06:13:13] [Server thread/INFO]: [CM]: loaded setting betterBonemeal as true from carpet.conf
+[06:13:13] [Server thread/INFO]: [CM]: loaded setting dragonEggBedrockBreaking as true from carpet.conf
+[06:13:13] [Server thread/INFO]: [CM]: loaded setting mobInFireConvertsSandToSoulsand as true from carpet.conf
+[06:13:13] [Server thread/INFO]: [CM]: loaded setting renewableLava as true from carpet.conf
+[06:13:13] [Server thread/INFO]: [CM]: loaded setting y0DragonEggBedrockBreaking as true from carpet.conf
+[06:13:13] [Server thread/INFO]: [CM]: loaded setting creeperDropCompletely as true from carpet.conf
+[06:13:13] [Server thread/INFO]: [CM]: loaded setting commandSpawn as true from carpet.conf
+[06:13:13] [Server thread/INFO]: [CM]: loaded setting shulkerSpawningInEndCities as true from carpet.conf
+[06:13:13] [Server thread/INFO]: [CM]: loaded setting largeBarrel as true from carpet.conf
+[06:13:13] [Server thread/INFO]: [CM]: loaded setting stackableShulkerBoxes as true from carpet.conf
+[06:13:13] [Server thread/INFO]: [CM]: loaded setting onePlayerSleeping as true from carpet.conf
+[06:13:13] [Server thread/INFO]: [CM]: loaded setting unbreakableHelmetInSunlight as true from carpet.conf
+[06:13:13] [Server thread/INFO]: [CM]: loaded setting functionalSpongeItem as true from carpet.conf
+[06:13:13] [Server thread/INFO]: [CM]: loaded setting smoothClientAnimations as true from carpet.conf
+[06:13:13] [Server thread/INFO]: [CM]: loaded setting persistentParrots as true from carpet.conf
+[06:13:13] [Server thread/INFO]: [CM]: loaded setting synchronizedLightThread as true from carpet.conf
+[06:13:13] [Server thread/INFO]: [CM]: loaded setting blockStateSyncing as true from carpet.conf
+[06:13:13] [Server thread/INFO]: [CM]: loaded setting wetSpongeAbsorbLava as true from carpet.conf
+[06:13:13] [Server thread/INFO]: [CM]: loaded setting clientSettingsLostOnRespawnFix as true from carpet.conf
+[06:13:13] [Server thread/INFO]: [CM]: loaded setting cauldronBlockItemInteractFix as true from carpet.conf
+[06:13:13] [Server thread/INFO]: [CM]: loaded setting editableSign as true from carpet.conf
+[06:13:13] [Server thread/INFO]: [CM]: loaded setting dispensersPlayRecords as true from carpet.conf
+[06:13:13] [Server thread/INFO]: [CM]: loaded setting endLightningRod as true from carpet.conf
+[06:13:13] [Server thread/INFO]: [CM]: loaded setting ctrlQCraftingFix as true from carpet.conf
+[06:13:13] [Server thread/INFO]: [CM]: loaded setting endermitesInconsistencyFix as true from carpet.conf
+[06:13:13] [Server thread/INFO]: [CM]: loaded setting xpTrackingDistance as 32.0 from carpet.conf
+[06:13:13] [Server thread/INFO]: [CM]: loaded setting optimizedFastEntityMovement as true from carpet.conf
+[06:13:13] [Server thread/INFO]: [CM]: loaded setting renewableSoulSand as true from carpet.conf
+[06:13:13] [Server thread/INFO]: [CM]: loaded setting enchantCommandNoRestriction as true from carpet.conf
+[06:13:13] [Server thread/INFO]: [CM]: loaded setting dragonsBreathConvertsCobbleToEndstone as true from carpet.conf
+[06:13:13] [Server thread/INFO]: [CM]: loaded setting renewableElytra as 1.0 from carpet.conf
+[06:13:13] [Server thread/INFO]: [CM]: loaded setting updateSuppressionCrashFix as true from carpet.conf
+[06:13:13] [Server thread/INFO]: [CM]: loaded setting reloadSuffocationFix as true from carpet.conf
+[06:13:13] [Server thread/INFO]: [CM]: loaded setting optimizedHardHitBoxEntityCollision as true from carpet.conf
+[06:13:13] [Server thread/INFO]: [CM]: loaded setting emptyShulkerBoxStackAlways as true from carpet.conf
+[06:13:13] [Server thread/INFO]: [CM]: loaded setting farmlandTrampledDisabled as true from carpet.conf
+[06:13:13] [Server thread/INFO]: [CM]: loaded setting commandOperator as 4 from carpet.conf
+[06:13:13] [Server thread/INFO]: [CM]: loaded setting flowerPotChunkLoading as true from carpet.conf
+[06:13:13] [Server thread/INFO]: [CM]: loaded setting fireChargeConvertsToNetherrack as true from carpet.conf
+[06:13:13] [Server thread/INFO]: [CM]: loaded setting blazeMeal as true from carpet.conf
+[06:13:13] [Server thread/INFO]: [CM]: loaded setting renewableSand as true from carpet.conf
+[06:13:13] [Server thread/INFO]: [CM]: loaded setting renewableDragonEgg as true from carpet.conf
+[06:13:13] [Server thread/INFO]: [CM]: loaded setting flippinCactus as true from carpet.conf
+[06:13:13] [Server thread/INFO]: [CM]: loaded setting lagFreeSpawning as true from carpet.conf
+[06:13:14] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[06:13:16] [Server thread/INFO]: Preparing spawn area: 0%
+[06:13:16] [Server thread/INFO]: Preparing spawn area: 0%
+[06:13:16] [Server thread/INFO]: Preparing spawn area: 0%
+[06:13:16] [Server thread/INFO]: Preparing spawn area: 0%
+[06:13:16] [Worker-Main-5/INFO]: Preparing spawn area: 23%
+[06:13:17] [Server thread/INFO]: Time elapsed: 2567 ms
+[06:13:17] [Server thread/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[06:13:17] [Server thread/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[06:13:17] [Server thread/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[06:13:17] [Server thread/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[06:13:17] [Server thread/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[06:13:17] [Server thread/INFO]: Reloading ResourceManager: Default, Fabric Mods (Croptopia, Fabric Tool Attribute API (v1), Golden Hoppers, Improved Stations, Mo Glass, More Berries, Patchouli, Torcherino, Wooden Hoppers)
+[06:13:17] [Server thread/INFO]: Loaded 7 recipes
+[06:13:17] [Server thread/INFO]: Loaded 947 advancements
+[06:13:18] [Server thread/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[06:13:18] [Server thread/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[06:13:18] [Server thread/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[06:13:18] [Server thread/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[06:13:18] [Server thread/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[06:13:18] [Server thread/INFO]: Reloading ResourceManager: Default, Fabric Mods (Croptopia, Fabric Tool Attribute API (v1), Golden Hoppers, Improved Stations, Mo Glass, More Berries, Patchouli, Torcherino, Wooden Hoppers), RedPack - Quartz Stonecutter.zip, RedPack - Craftable Tall Grass.zip, RedPack - Craftable Large Fern.zip, RedPack - Fast Redstone Crafting.zip, RedPack - Red Sandstone to Red Sand.zip, RedPack - Enderman No Grief.zip, RedPack - Red Sandstone Crafting Compatibility.zip, RedPack - Wood Stonecutter.zip, RedPack - Craftable Corals.zip, RedPack - Husk Drops Sand.zip, RedPack - Craftable Colored Blocks.zip, RedPack - Craftable Dead Bushes.zip, RedPack - Craftable Shulker Shells.zip, RedPack - Craftable Player Heads.zip, RedPack - Craftable Elytra.zip, RedPack - Red Sandstone Stonecutter.zip, RedPack - Craftable Cobwebs.zip, RedPack - Quartz Crafting Compatibility.zip, RedPack - Slab to Full Block.zip, RedPack - Craftable Quartz.zip, RedPack - Sandstone Stonecutter.zip, RedPack - Craftable Bricks.zip, RedPack - Craftable Ice.zip, RedPack - Craftable Packed Ice.zip, RedPack - Sandstone to Sand.zip, RedPack - Sandstone Crafting Compatibility.zip, RedPack - Craftable Stripped Wood.zip, RedPack - Better Armor Stands.zip
+[06:13:20] [Server thread/INFO]: Loaded 7 recipes
+[06:13:20] [Server thread/INFO]: Loaded 1579 advancements
+[06:13:21] [Server thread/INFO]: App placeableplants loaded in 58 ms
+[06:13:21] [Server thread/INFO]: App colorableshulkers loaded in 7 ms
+[06:13:21] [Server thread/WARN]: 'entity_load_handler() with single argument callback' is deprecated and soon will be removed. Please consult the docs for their replacement
+[06:13:21] [Server thread/INFO]: 'entity_load_handler() with single argument callback' is deprecated and soon will be removed. Please consult the docs for their replacement
+[06:13:21] [Server thread/INFO]: App dragoneggrespawns loaded in 93 ms
+[06:13:21] [Server thread/WARN]: 'entity_load_handler() with single argument callback' is deprecated and soon will be removed. Please consult the docs for their replacement
+[06:13:21] [Server thread/INFO]: 'entity_load_handler() with single argument callback' is deprecated and soon will be removed. Please consult the docs for their replacement
+[06:13:21] [Server thread/INFO]: Error while evaluating expression: 
  HERE>> entity_load_handler('glow_item_frame', '_check_custom_drop');
 for(entity_list('glow_item_frame'), _check_custom_drop(_))
 glow_item_frame is not a valid entity descriptor in betteritemframes at line 42, pos 1
-[20:31:09] [Server thread/INFO]: Failed to add betteritemframes app
-[20:31:09] [Server thread/INFO]: App villagerleash loaded in 5 ms
-[20:31:09] [Server thread/INFO]: App playerme loaded in 81 ms
-[20:31:09] [Server thread/INFO]: App crumbleconcrete loaded in 6 ms
-[20:31:09] [Server thread/INFO]: App horsestats loaded in 5 ms
-[20:31:09] [Server thread/WARN]: 'entity_load_handler() with single argument callback' is deprecated and soon will be removed. Please consult the docs for their replacement
-[20:31:09] [Server thread/INFO]: 'entity_load_handler() with single argument callback' is deprecated and soon will be removed. Please consult the docs for their replacement
-[20:31:09] [Server thread/INFO]: App morewanderingtrades loaded in 18 ms
-[20:31:09] [Server thread/INFO]: App silkyblockstates loaded in 21 ms
-[20:31:09] [Server thread/INFO]: App prunedplants loaded in 6 ms
-[20:31:09] [Server thread/INFO]: App lastdeathcompass loaded in 5 ms
-[20:31:09] [Server thread/INFO]: App specialnametags loaded in 11 ms
-[20:31:09] [Server thread/INFO]: App locateplayer loaded in 9 ms
-[20:31:09] [Server thread/WARN]: 'reading or modifying an objective's criterion with scoreboard_add' is deprecated and soon will be removed. Please consult the docs for their replacement
-[20:31:09] [Server thread/INFO]: 'reading or modifying an objective's criterion with scoreboard_add' is deprecated and soon will be removed. Please consult the docs for their replacement
-[20:31:09] [Server thread/INFO]: App graves loaded in 17 ms
-[20:31:09] [Server thread/INFO]: App skull loaded in 44 ms
-[20:31:09] [Server thread/INFO]: App sitanywhere loaded in 10 ms
-[20:31:09] [Server thread/INFO]: App waystone loaded in 15 ms
-[20:31:09] [Server thread/INFO]: App treecapitator loaded in 23 ms
-[20:31:09] [Server thread/INFO]: App ropes loaded in 129 ms
-[20:31:09] [Server thread/INFO]: App floatingladders loaded in 5 ms
-[20:31:09] [Server thread/INFO]: App revivecoral loaded in 4 ms
-[20:31:09] [Server thread/WARN]: 'reading or modifying an objective's criterion with scoreboard_add' is deprecated and soon will be removed. Please consult the docs for their replacement
-[20:31:09] [Server thread/INFO]: 'reading or modifying an objective's criterion with scoreboard_add' is deprecated and soon will be removed. Please consult the docs for their replacement
-[20:31:09] [Server thread/INFO]: App stats loaded in 18 ms
-[20:31:09] [Server thread/INFO]: App timebar loaded in 4 ms
-[20:31:09] [Server thread/INFO]: Done (8.810s)! For help, type "help"
-[20:31:13] [Server thread/INFO]: zwhzwh[/127.0.0.1:55956] logged in with entity id 91 at (-1259.5511449977182, 69.0, 1189.4849714229144)
-[20:31:13] [Server thread/INFO]: zwhzwh joined the game
-[20:31:13] [Netty Server IO #5/INFO]: Player zwhzwh joined with a matching carpet client
-[20:31:14] [Server thread/INFO]: AT_Studio[/127.0.0.1:55957] logged in with entity id 96 at (-372.69999998807907, 71.0, 487.69626763696823)
-[20:31:14] [Server thread/INFO]: AT_Studio joined the game
-[20:31:14] [Netty Server IO #6/INFO]: Player AT_Studio joined with a matching carpet client
-[20:31:34] [Server thread/INFO]: zwhzwh has made the advancement [Diamonds!]
-[20:31:34] [Server thread/INFO]: [AT_Studio: Gave 16 [Diamond] to zwhzwh]
-[20:31:40] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-380, y=71, z=485} class_2338{x=-380, y=72, z=485}
-[20:32:29] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-380, y=71, z=493} class_2338{x=-381, y=73, z=494}
-[20:32:52] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-378, y=72, z=492} class_2338{x=-377, y=71, z=491}
-[20:37:06] [Server thread/INFO]: [AT_Studio: Set own game mode to Creative Mode]
-[20:37:50] [Server thread/INFO]: [AT_Studio: Set own game mode to Survival Mode]
-[20:38:53] [Server thread/INFO]: [AT_Studio: Set own game mode to Creative Mode]
-[20:39:20] [Server thread/INFO]: Kitsune_A[/127.0.0.1:56592] logged in with entity id 2915 at (-1142.6915086017023, 64.0, 1312.3052525061955)
-[20:39:20] [Server thread/INFO]: Kitsune_A joined the game
-[20:39:22] [Netty Server IO #8/INFO]: Player Kitsune_A joined with a matching carpet client
-[20:39:48] [Server thread/INFO]: [AT_Studio: Set own game mode to Survival Mode]
-[20:41:41] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-356, y=71, z=484} class_2338{x=-360, y=78, z=481}
-[20:41:41] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-356, y=71, z=484} class_2338{x=-360, y=78, z=481}
-[20:41:41] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-356, y=71, z=484} class_2338{x=-360, y=78, z=481}
-[20:41:41] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-356, y=71, z=484} class_2338{x=-360, y=78, z=481}
-[20:45:56] [Server thread/INFO]: AT_Studio @ 主世界 [-373, 71, 491] [V] [X] [T] [P] -> [-46, 8, 61]
-[20:46:07] [Server thread/INFO]: <AT_Studio> 快来挖冰
-[20:46:12] [Server thread/INFO]: <AT_Studio> 有报酬
-[20:46:32] [Server thread/INFO]: <Kitsune_A> 你直接把我tp过去不就行了
-[20:46:43] [Server thread/INFO]: [AT_Studio: Teleported AT_Studio to Kitsune_A]
-[20:46:57] [Server thread/INFO]: [AT_Studio: Teleported AT_Studio to -372.5, 71.0, 491.5]
-[20:46:57] [Server thread/WARN]: AT_Studio moved too quickly! 753.6401884967654,11.0,-813.9382700708818
-[20:47:03] [Server thread/INFO]: [AT_Studio: Teleported Kitsune_A to AT_Studio]
-[20:47:18] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-379, y=71, z=482} class_2338{x=-372, y=70, z=490}
-[20:47:18] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-379, y=71, z=482} class_2338{x=-372, y=70, z=490}
-[20:50:05] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-381, y=65, z=484} class_2338{x=-383, y=64, z=484}
-[20:50:05] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-381, y=65, z=484} class_2338{x=-383, y=64, z=484}
-[20:54:33] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-384, y=62, z=484} class_2338{x=-383, y=62, z=485}
-[20:54:33] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-384, y=62, z=484} class_2338{x=-383, y=62, z=485}
-[20:54:33] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-383, y=61, z=484} class_2338{x=-383, y=62, z=485}
-[20:56:21] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-395, y=62, z=497} class_2338{x=-394, y=62, z=497}
-[20:59:10] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-365, y=70, z=497} class_2338{x=-365, y=67, z=498}
-[20:59:10] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-365, y=70, z=497} class_2338{x=-365, y=67, z=498}
-[20:59:10] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-365, y=70, z=497} class_2338{x=-365, y=67, z=498}
-[21:00:45] [Server thread/INFO]: <AT_Studio> 要修稿子吗
-[21:00:56] [Server thread/INFO]: <Kitsune_A> 还行
-[21:02:00] [Server thread/INFO]: [AT_Studio: AT_Studio subscribed to tps.]
-[21:02:08] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-360, y=60, z=483} class_2338{x=-360, y=61, z=484}
-[21:02:08] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-361, y=62, z=484} class_2338{x=-361, y=60, z=483}
-[21:02:16] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-362, y=61, z=485} class_2338{x=-362, y=62, z=485}
-[21:04:53] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-373, y=57, z=486} class_2338{x=-374, y=58, z=487}
-[21:04:53] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-373, y=57, z=486} class_2338{x=-374, y=58, z=487}
-[21:04:53] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-373, y=57, z=486} class_2338{x=-374, y=58, z=487}
-[21:04:59] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-373, y=62, z=490} class_2338{x=-373, y=62, z=491}
-[21:06:34] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-374, y=63, z=479} class_2338{x=-375, y=63, z=478}
-[21:06:55] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-378, y=63, z=479} class_2338{x=-379, y=63, z=479}
-[21:07:11] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-378, y=64, z=479} class_2338{x=-378, y=64, z=478}
-[21:07:25] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-378, y=64, z=479} class_2338{x=-379, y=65, z=480}
-[21:08:52] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-373, y=67, z=498} class_2338{x=-373, y=66, z=498}
-[21:08:55] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-382, y=66, z=499} class_2338{x=-383, y=66, z=499}
-[21:08:55] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-383, y=65, z=499} class_2338{x=-383, y=66, z=499}
-[21:08:55] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-383, y=65, z=499} class_2338{x=-384, y=66, z=499}
-[21:08:55] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-383, y=65, z=499} class_2338{x=-384, y=66, z=499}
-[21:10:33] [Server thread/INFO]: Kitsune_A has reached the goal [The Next Generation]
-[21:10:37] [Server thread/INFO]: <Kitsune_A> ???
-[21:10:40] [Server thread/INFO]: <AT_Studio> 送你了
-[21:11:13] [Server thread/WARN]: AT_Studio moved wrongly!
-[21:15:16] [Server thread/INFO]: <AT_Studio> 看我手里
-[21:15:27] [Server thread/INFO]: <Kitsune_A> 卡掉了？
-[21:15:30] [Server thread/INFO]: <Kitsune_A> 地狱的
-[21:15:35] [Server thread/INFO]: <AT_Studio> 我昨天花了5个小时搞得
-[21:15:45] [Server thread/INFO]: <AT_Studio> 挖了一块基岩
-[21:15:45] [Server thread/INFO]: <Kitsune_A> 哈哈哈
-[21:16:35] [Server thread/INFO]: <AT_Studio> 利用版本转移加区块复制的特性纯生存获取了1块基岩
-[21:16:49] [Server thread/INFO]: <AT_Studio> 其实是2块，复制了1块
-[21:17:04] [Server thread/INFO]: <AT_Studio> 我手里这个是最初的基岩
-[21:17:27] [Server thread/WARN]: AT_Studio moved wrongly!
-[21:18:23] [Server thread/INFO]: <AT_Studio> B站有教程
-[21:18:54] [Server thread/INFO]: <Kitsune_A> 我们都挺养老的
-[21:18:58] [Server thread/INFO]: <Kitsune_A> 懒得学这些
-[21:21:20] [Server thread/INFO]: Kitsune_A drowned
-[21:21:30] [Server thread/INFO]: <AT_Studio> hhhhh
-[21:21:35] [Server thread/INFO]: [AT_Studio: Teleported Kitsune_A to AT_Studio]
-[21:21:46] [Server thread/INFO]: <Kitsune_A> 我回去了
-[21:22:20] [Server thread/INFO]: Kitsune_A drowned
-[21:23:42] [Server thread/INFO]: <AT_Studio> hao
-[21:23:54] [Server thread/WARN]: AT_Studio moved wrongly!
-[21:25:20] [Server thread/INFO]: <AT_Studio> 我送你报酬
-[21:25:26] [Server thread/INFO]: <AT_Studio> 快来
-[21:25:47] [Server thread/INFO]: <Kitsune_A> ????????????????????????
-[21:26:14] [Server thread/INFO]: <AT_Studio> 我挂会机
-[21:26:18] [Server thread/INFO]: <Kitsune_A> 好
-[21:34:20] [Server thread/INFO]: zwhzwh lost connection: Disconnected
-[21:34:20] [Server thread/INFO]: zwhzwh left the game
-[21:34:20] [Server thread/INFO]: Kitsune_A lost connection: Disconnected
-[21:34:20] [Server thread/INFO]: Kitsune_A left the game
-[22:08:04] [Server thread/INFO]: AT_Studio lost connection: Disconnected
-[22:08:04] [Server thread/INFO]: AT_Studio left the game
-[22:08:15] [Server thread/INFO]: Stopping the server
-[22:08:15] [Server thread/INFO]: Stopping server
-[22:08:15] [Server thread/INFO]: Saving players
-[22:08:15] [Server thread/INFO]: Saving worlds
-[22:08:15] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[22:08:15] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[22:08:15] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[22:08:15] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[22:08:15] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[22:08:15] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[22:08:15] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[22:08:15] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[22:08:15] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[06:13:21] [Server thread/INFO]: Failed to add betteritemframes app
+[06:13:21] [Server thread/INFO]: App villagerleash loaded in 5 ms
+[06:13:21] [Server thread/INFO]: App playerme loaded in 152 ms
+[06:13:21] [Server thread/INFO]: App crumbleconcrete loaded in 5 ms
+[06:13:21] [Server thread/INFO]: App horsestats loaded in 4 ms
+[06:13:21] [Server thread/WARN]: 'entity_load_handler() with single argument callback' is deprecated and soon will be removed. Please consult the docs for their replacement
+[06:13:21] [Server thread/INFO]: 'entity_load_handler() with single argument callback' is deprecated and soon will be removed. Please consult the docs for their replacement
+[06:13:21] [Server thread/INFO]: App morewanderingtrades loaded in 36 ms
+[06:13:21] [Server thread/INFO]: App silkyblockstates loaded in 32 ms
+[06:13:21] [Server thread/INFO]: App prunedplants loaded in 8 ms
+[06:13:21] [Server thread/INFO]: App lastdeathcompass loaded in 47 ms
+[06:13:21] [Server thread/INFO]: App specialnametags loaded in 16 ms
+[06:13:21] [Server thread/INFO]: App locateplayer loaded in 15 ms
+[06:13:21] [Server thread/WARN]: 'reading or modifying an objective's criterion with scoreboard_add' is deprecated and soon will be removed. Please consult the docs for their replacement
+[06:13:21] [Server thread/INFO]: 'reading or modifying an objective's criterion with scoreboard_add' is deprecated and soon will be removed. Please consult the docs for their replacement
+[06:13:21] [Server thread/INFO]: App graves loaded in 32 ms
+[06:13:21] [Server thread/INFO]: App skull loaded in 30 ms
+[06:13:21] [Server thread/INFO]: App sitanywhere loaded in 8 ms
+[06:13:21] [Server thread/INFO]: App waystone loaded in 22 ms
+[06:13:21] [Server thread/INFO]: App treecapitator loaded in 24 ms
+[06:13:21] [Server thread/INFO]: App ropes loaded in 7 ms
+[06:13:21] [Server thread/INFO]: App floatingladders loaded in 4 ms
+[06:13:21] [Server thread/INFO]: App revivecoral loaded in 3 ms
+[06:13:21] [Server thread/WARN]: 'reading or modifying an objective's criterion with scoreboard_add' is deprecated and soon will be removed. Please consult the docs for their replacement
+[06:13:21] [Server thread/INFO]: 'reading or modifying an objective's criterion with scoreboard_add' is deprecated and soon will be removed. Please consult the docs for their replacement
+[06:13:21] [Server thread/INFO]: App stats loaded in 18 ms
+[06:13:21] [Server thread/INFO]: App timebar loaded in 11 ms
+[06:13:21] [Server thread/INFO]: Done (8.104s)! For help, type "help"
+[06:15:48] [Netty Server IO #1/WARN]: Method overwrite conflict for getLanguage in carpet-tis-addition.mixins.json:translations.ClientSettingsC2SPacketAccessor from mod carpet-tis-addition, previously written by carpet.mixins.ClientSettingsC2SPacket_scarpetMixin. Skipping method.
+[06:15:53] [Server thread/INFO]: AT_Studio[/127.0.0.1:54281] logged in with entity id 90 at (-1139.4254245645388, 64.0, 1303.4809817904)
+[06:15:53] [Server thread/INFO]: AT_Studio joined the game
+[06:15:56] [Netty Server IO #3/INFO]: Player AT_Studio joined with a matching carpet client
+[06:16:09] [Server thread/WARN]: AT_Studio moved wrongly!
+[06:21:40] [Server thread/INFO]: [AT_Studio: Gamerule randomTickSpeed is now set to: 100]
+[06:21:51] [Server thread/INFO]: [AT_Studio: Gamerule randomTickSpeed is now set to: 1500]
+[06:22:10] [Server thread/INFO]: [AT_Studio: AT_Studio subscribed to tps.]
+[06:24:13] [Server thread/INFO]: [AT_Studio: Applied enchantment Mending to AT_Studio's item]
+[06:25:38] [Server thread/WARN]: AT_Studio moved wrongly!
+[06:26:00] [Server thread/INFO]: [AT_Studio: Set own game mode to Creative Mode]
+[06:26:54] [Server thread/INFO]: [AT_Studio: Set own game mode to Survival Mode]
+[06:27:02] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-1519, y=71, z=924} class_2338{x=-1519, y=71, z=925}
+[06:27:07] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-1519, y=71, z=931} class_2338{x=-1516, y=71, z=930}
+[06:27:07] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-1519, y=71, z=931} class_2338{x=-1516, y=71, z=930}
+[06:27:22] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-1535, y=71, z=924} class_2338{x=-1535, y=71, z=923}
+[06:27:22] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-1535, y=71, z=924} class_2338{x=-1536, y=71, z=924}
+[06:27:22] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-1535, y=71, z=924} class_2338{x=-1536, y=71, z=924}
+[06:27:22] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-1535, y=71, z=924} class_2338{x=-1536, y=71, z=924}
+[06:27:22] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-1535, y=71, z=924} class_2338{x=-1536, y=71, z=924}
+[06:27:22] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-1535, y=71, z=924} class_2338{x=-1536, y=71, z=924}
+[06:27:22] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-1535, y=71, z=924} class_2338{x=-1536, y=71, z=924}
+[06:27:22] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-1535, y=71, z=924} class_2338{x=-1536, y=71, z=924}
+[06:27:23] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-1538, y=71, z=924} class_2338{x=-1539, y=71, z=924}
+[06:27:23] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-1538, y=71, z=924} class_2338{x=-1538, y=71, z=925}
+[06:27:23] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-1538, y=71, z=924} class_2338{x=-1538, y=71, z=925}
+[06:27:27] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-1543, y=71, z=925} class_2338{x=-1544, y=71, z=924}
+[06:27:27] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-1544, y=71, z=925} class_2338{x=-1544, y=71, z=924}
+[06:27:27] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-1543, y=71, z=925} class_2338{x=-1544, y=71, z=924}
+[06:27:27] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-1544, y=71, z=925} class_2338{x=-1544, y=71, z=924}
+[06:27:28] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-1543, y=71, z=925} class_2338{x=-1544, y=71, z=924}
+[06:27:28] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-1543, y=71, z=925} class_2338{x=-1544, y=71, z=924}
+[06:27:28] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-1543, y=71, z=925} class_2338{x=-1544, y=71, z=924}
+[06:27:28] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-1543, y=71, z=925} class_2338{x=-1544, y=71, z=924}
+[06:29:23] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-1535, y=71, z=930} class_2338{x=-1534, y=71, z=931}
+[06:29:23] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-1535, y=71, z=929} class_2338{x=-1536, y=71, z=929}
+[06:29:23] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-1535, y=71, z=929} class_2338{x=-1536, y=71, z=929}
+[06:29:23] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-1535, y=71, z=929} class_2338{x=-1536, y=71, z=929}
+[06:29:24] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-1535, y=71, z=932} class_2338{x=-1537, y=71, z=931}
+[06:29:26] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-1540, y=71, z=928} class_2338{x=-1540, y=71, z=927}
+[06:30:16] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-1528, y=71, z=919} class_2338{x=-1529, y=71, z=920}
+[06:30:16] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-1528, y=71, z=919} class_2338{x=-1529, y=71, z=920}
+[06:30:33] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-1538, y=71, z=919} class_2338{x=-1539, y=71, z=919}
+[06:30:33] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-1538, y=71, z=919} class_2338{x=-1539, y=71, z=919}
+[06:34:17] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-1539, y=71, z=921} class_2338{x=-1539, y=71, z=922}
+[06:34:17] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-1539, y=71, z=921} class_2338{x=-1540, y=71, z=921}
+[06:34:17] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-1539, y=71, z=921} class_2338{x=-1540, y=71, z=921}
+[06:34:17] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-1539, y=71, z=921} class_2338{x=-1540, y=71, z=921}
+[06:34:17] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-1539, y=71, z=921} class_2338{x=-1540, y=71, z=921}
+[06:34:17] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-1539, y=71, z=921} class_2338{x=-1540, y=71, z=921}
+[06:34:24] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-1528, y=71, z=918} class_2338{x=-1527, y=71, z=917}
+[06:34:24] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-1527, y=71, z=918} class_2338{x=-1527, y=71, z=917}
+[06:34:24] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-1528, y=71, z=918} class_2338{x=-1527, y=71, z=917}
+[06:34:24] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-1528, y=71, z=918} class_2338{x=-1527, y=71, z=917}
+[06:34:24] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-1528, y=71, z=918} class_2338{x=-1527, y=71, z=917}
+[06:34:24] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-1528, y=71, z=918} class_2338{x=-1527, y=71, z=917}
+[06:34:37] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-1531, y=71, z=915} class_2338{x=-1532, y=71, z=914}
+[06:34:37] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-1531, y=71, z=915} class_2338{x=-1532, y=71, z=914}
+[06:34:37] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-1531, y=71, z=915} class_2338{x=-1532, y=71, z=914}
+[06:34:37] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-1531, y=71, z=915} class_2338{x=-1532, y=71, z=914}
+[06:34:38] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-1531, y=71, z=915} class_2338{x=-1532, y=71, z=914}
+[06:34:40] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-1537, y=71, z=914} class_2338{x=-1536, y=71, z=914}
+[06:34:44] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-1540, y=71, z=914} class_2338{x=-1540, y=70, z=914}
+[06:37:58] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-1545, y=71, z=916} class_2338{x=-1545, y=71, z=915}
+[06:40:32] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-1540, y=71, z=937} class_2338{x=-1541, y=71, z=937}
+[06:40:32] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-1540, y=71, z=937} class_2338{x=-1540, y=71, z=938}
+[06:40:32] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-1540, y=71, z=937} class_2338{x=-1540, y=71, z=938}
+[06:40:32] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-1540, y=71, z=937} class_2338{x=-1540, y=71, z=938}
+[06:40:32] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-1540, y=71, z=937} class_2338{x=-1540, y=71, z=938}
+[06:40:32] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-1540, y=71, z=937} class_2338{x=-1540, y=71, z=938}
+[06:40:33] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-1541, y=71, z=938} class_2338{x=-1541, y=71, z=937}
+[06:40:33] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-1541, y=71, z=938} class_2338{x=-1541, y=71, z=937}
+[06:40:33] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-1541, y=71, z=938} class_2338{x=-1541, y=71, z=937}
+[06:40:33] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-1541, y=71, z=938} class_2338{x=-1541, y=71, z=937}
+[06:40:33] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-1541, y=71, z=938} class_2338{x=-1541, y=71, z=937}
+[06:40:33] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-1541, y=71, z=938} class_2338{x=-1541, y=71, z=937}
+[06:42:07] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-1556, y=70, z=951} class_2338{x=-1553, y=70, z=951}
+[06:42:07] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-1556, y=70, z=951} class_2338{x=-1553, y=70, z=951}
+[06:42:07] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-1556, y=70, z=951} class_2338{x=-1553, y=70, z=951}
+[06:42:07] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-1556, y=70, z=951} class_2338{x=-1553, y=70, z=951}
+[06:42:07] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-1556, y=70, z=951} class_2338{x=-1553, y=70, z=951}
+[06:42:13] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-1549, y=69, z=950} class_2338{x=-1548, y=70, z=950}
+[06:42:26] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-1529, y=68, z=951} class_2338{x=-1530, y=70, z=951}
+[06:42:26] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-1529, y=68, z=951} class_2338{x=-1530, y=70, z=951}
+[06:42:26] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-1529, y=68, z=951} class_2338{x=-1528, y=69, z=950}
+[06:43:24] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-1542, y=71, z=950} class_2338{x=-1543, y=71, z=950}
+[06:46:36] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-1537, y=71, z=948} class_2338{x=-1536, y=71, z=948}
+[06:46:36] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-1537, y=71, z=948} class_2338{x=-1536, y=71, z=948}
+[06:47:53] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-1530, y=71, z=936} class_2338{x=-1529, y=71, z=936}
+[06:48:02] [Server thread/WARN]: AT_Studio moved wrongly!
+[06:49:21] [Server thread/INFO]: [AT_Studio: Set the time to 1000]
+[06:51:36] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-1529, y=71, z=941} class_2338{x=-1529, y=71, z=940}
+[06:51:59] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-1533, y=71, z=938} class_2338{x=-1534, y=71, z=937}
+[06:51:59] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-1533, y=71, z=938} class_2338{x=-1534, y=71, z=938}
+[06:54:33] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-1543, y=71, z=941} class_2338{x=-1542, y=71, z=940}
+[06:54:39] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-1544, y=71, z=943} class_2338{x=-1544, y=71, z=945}
+[06:54:39] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-1543, y=71, z=944} class_2338{x=-1544, y=71, z=945}
+[06:54:39] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-1543, y=71, z=945} class_2338{x=-1544, y=71, z=945}
+[06:54:39] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-1543, y=71, z=944} class_2338{x=-1544, y=71, z=945}
+[06:54:39] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-1543, y=71, z=944} class_2338{x=-1544, y=71, z=945}
+[06:54:39] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-1543, y=71, z=944} class_2338{x=-1544, y=71, z=945}
+[06:54:39] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-1543, y=71, z=944} class_2338{x=-1544, y=71, z=945}
+[06:54:39] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-1543, y=71, z=944} class_2338{x=-1544, y=71, z=945}
+[07:00:00] [Server thread/INFO]: [AT_Studio: Set the time to 1000]
+[07:02:26] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-1557, y=70, z=950} class_2338{x=-1557, y=69, z=950}
+[07:11:08] [Server thread/INFO]: AT_Studio was slain by Husk
+[07:12:53] [Server thread/INFO]: [AT_Studio: Set the time to 1000]
+[07:17:33] [Server thread/INFO]: AT_Studio has made the advancement [Spooky Scary Skeleton]
+[07:17:50] [Server thread/INFO]: [AT_Studio: Set own game mode to Creative Mode]
+[07:17:54] [Server thread/INFO]: AT_Studio has made the advancement [Withering Heights]
+[07:18:13] [Server thread/WARN]: Fetching packet for removed entity class_1542['Raw Rabbit'/12048, l='ServerLevel[world]', x=-1624.23, y=66.00, z=973.81]
+[07:18:13] [Server thread/WARN]: Fetching packet for removed entity class_1542['Wither Rose'/12049, l='ServerLevel[world]', x=-1624.23, y=66.00, z=973.81]
+[09:29:49] [Server thread/INFO]: There are 1 of a max of 20 players online: AT_Studio
+[10:15:02] [Server thread/INFO]: There are 1 of a max of 20 players online: AT_Studio
+[10:58:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2014ms or 40 ticks behind
+[11:16:02] [Server thread/INFO]: There are 1 of a max of 20 players online: AT_Studio
+[11:17:08] [Server thread/INFO]: Kitsune_A[/127.0.0.1:51414] logged in with entity id 30781 at (-1184.8728602263934, 64.0, 1276.152453864755)
+[11:17:08] [Server thread/INFO]: Kitsune_A joined the game
+[11:17:10] [Netty Server IO #5/INFO]: Player Kitsune_A joined with a matching carpet client
+[11:20:01] [Server thread/WARN]: Trying to add entity with duplicated UUID 0022d12c-ed17-4ace-98e6-82053e7c9a1a. Existing minecraft:armor_stand#31670, new: minecraft:armor_stand#31670
+[11:27:04] [Server thread/INFO]: Kitsune_A lost connection: Disconnected
+[11:27:04] [Server thread/INFO]: Kitsune_A left the game
+[12:36:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2134ms or 42 ticks behind
+[12:36:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4340ms or 86 ticks behind
+[13:14:30] [Server thread/INFO]: Kitsune_A[/127.0.0.1:53505] logged in with entity id 39929 at (-1131.5614807929899, 64.0, 1294.763178467645)
+[13:14:30] [Server thread/INFO]: Kitsune_A joined the game
+[13:14:33] [Netty Server IO #7/INFO]: Player Kitsune_A joined with a matching carpet client
+[13:15:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
+[13:16:12] [Server thread/INFO]: Kitsune_A fell from a high place
+[13:16:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4505ms or 90 ticks behind
+[13:16:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2012ms or 40 ticks behind
+[13:17:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9060ms or 181 ticks behind
+[13:17:23] [Server thread/INFO]: Kitsune_A fell from a high place
+[13:18:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2023ms or 40 ticks behind
+[13:18:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9065ms or 181 ticks behind
+[13:18:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11585ms or 231 ticks behind
+[13:19:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 13889ms or 277 ticks behind
+[13:19:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 13560ms or 271 ticks behind
+[13:20:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 13035ms or 260 ticks behind
+[13:20:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 15089ms or 301 ticks behind
+[13:21:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 14982ms or 299 ticks behind
+[13:21:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 13588ms or 271 ticks behind
+[13:22:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 13178ms or 263 ticks behind
+[13:22:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 13001ms or 260 ticks behind
+[13:23:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12724ms or 254 ticks behind
+[13:23:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12087ms or 241 ticks behind
+[13:24:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12067ms or 241 ticks behind
+[13:24:29] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=119, y=56, z=142} class_2338{x=118, y=56, z=143}
+[13:24:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 14021ms or 280 ticks behind
+[13:25:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 14050ms or 281 ticks behind
+[13:25:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 13191ms or 263 ticks behind
+[13:26:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 13602ms or 272 ticks behind
+[13:26:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 13672ms or 273 ticks behind
+[13:27:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 14345ms or 286 ticks behind
+[13:27:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 13948ms or 278 ticks behind
+[13:28:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 14166ms or 283 ticks behind
+[13:28:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12732ms or 254 ticks behind
+[13:28:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12203ms or 244 ticks behind
+[13:29:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11356ms or 227 ticks behind
+[13:29:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11515ms or 230 ticks behind
+[13:30:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11813ms or 236 ticks behind
+[13:30:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11854ms or 237 ticks behind
+[13:31:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10872ms or 217 ticks behind
+[13:31:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9662ms or 193 ticks behind
+[13:31:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8619ms or 172 ticks behind
+[13:32:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8780ms or 175 ticks behind
+[13:32:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9736ms or 194 ticks behind
+[13:33:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10165ms or 203 ticks behind
+[13:33:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10123ms or 202 ticks behind
+[13:34:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9766ms or 195 ticks behind
+[13:34:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9180ms or 183 ticks behind
+[13:34:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8562ms or 171 ticks behind
+[13:35:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7347ms or 146 ticks behind
+[13:35:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6451ms or 129 ticks behind
+[13:35:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6220ms or 124 ticks behind
+[13:36:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6049ms or 120 ticks behind
+[13:36:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6300ms or 126 ticks behind
+[13:36:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7650ms or 153 ticks behind
+[13:37:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7876ms or 157 ticks behind
+[13:37:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7457ms or 149 ticks behind
+[13:37:56] [Server thread/INFO]: Kitsune_A tried to swim in lava
+[13:38:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2108ms or 42 ticks behind
+[13:38:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2015ms or 40 ticks behind
+[13:39:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8614ms or 172 ticks behind
+[13:39:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11352ms or 227 ticks behind
+[13:39:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11506ms or 230 ticks behind
+[13:40:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12472ms or 249 ticks behind
+[13:40:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 13359ms or 267 ticks behind
+[13:41:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 13272ms or 265 ticks behind
+[13:41:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 13377ms or 267 ticks behind
+[13:42:00] [Server thread/INFO]: Kitsune_A tried to swim in lava
+[13:42:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3938ms or 78 ticks behind
+[13:44:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2019ms or 40 ticks behind
+[13:44:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8152ms or 163 ticks behind
+[13:44:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9544ms or 190 ticks behind
+[13:45:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8879ms or 177 ticks behind
+[13:45:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7300ms or 146 ticks behind
+[13:46:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7034ms or 140 ticks behind
+[13:46:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7354ms or 147 ticks behind
+[13:46:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7777ms or 155 ticks behind
+[13:47:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8318ms or 166 ticks behind
+[13:47:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7324ms or 146 ticks behind
+[13:47:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7349ms or 146 ticks behind
+[13:48:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6086ms or 121 ticks behind
+[13:48:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5741ms or 114 ticks behind
+[13:48:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4907ms or 98 ticks behind
+[13:49:04] [Server thread/INFO]: Kitsune_A fell from a high place
+[13:50:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[13:50:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8784ms or 175 ticks behind
+[13:51:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11465ms or 229 ticks behind
+[13:51:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11470ms or 229 ticks behind
+[13:52:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10497ms or 209 ticks behind
+[13:52:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12062ms or 241 ticks behind
+[13:52:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12696ms or 253 ticks behind
+[13:53:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 14534ms or 290 ticks behind
+[13:53:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 14456ms or 289 ticks behind
+[13:54:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 14132ms or 282 ticks behind
+[13:54:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 13416ms or 268 ticks behind
+[13:55:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12952ms or 259 ticks behind
+[13:55:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12763ms or 255 ticks behind
+[13:56:01] [Server thread/INFO]: Kitsune_A fell from a high place
+[13:56:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2959ms or 59 ticks behind
+[14:00:31] [Server thread/INFO]: Kitsune_A lost connection: Disconnected
+[14:00:31] [Server thread/INFO]: Kitsune_A left the game
+[15:11:28] [Server thread/INFO]: There are 1 of a max of 20 players online: AT_Studio
+[15:23:27] [Server thread/INFO]: [AT_Studio: Set own game mode to Spectator Mode]
+[16:42:44] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[16:42:45] [Server thread/INFO]: LIST<--[HERE]
+[16:42:48] [Server thread/INFO]: There are 1 of a max of 20 players online: AT_Studio
+[16:43:27] [Server thread/INFO]: [AT_Studio: Set own game mode to Creative Mode]
+[17:08:03] [Server thread/INFO]: AT_Studio has made the advancement [Ice Bucket Challenge]
+[19:29:37] [Server thread/INFO]: [Torcherino] AT_Studio(3a5760d5-ff07-3fb0-981a-a39c00d77bd5) placed a torcherino:wall_torcherino at -1544, 67, 916.
+[19:29:49] [Server thread/INFO]: [Torcherino] AT_Studio(3a5760d5-ff07-3fb0-981a-a39c00d77bd5) placed a torcherino:wall_torcherino at -1544, 67, 917.
+[19:29:54] [Server thread/INFO]: [Torcherino] AT_Studio(3a5760d5-ff07-3fb0-981a-a39c00d77bd5) placed a torcherino:wall_torcherino at -1544, 67, 918.
+[19:30:02] [Server thread/INFO]: [Torcherino] AT_Studio(3a5760d5-ff07-3fb0-981a-a39c00d77bd5) placed a torcherino:wall_torcherino at -1544, 67, 919.
+[19:30:06] [Server thread/INFO]: [Torcherino] AT_Studio(3a5760d5-ff07-3fb0-981a-a39c00d77bd5) placed a torcherino:wall_torcherino at -1544, 67, 920.
+[19:30:12] [Server thread/INFO]: [Torcherino] AT_Studio(3a5760d5-ff07-3fb0-981a-a39c00d77bd5) placed a torcherino:wall_torcherino at -1544, 67, 921.
+[19:30:16] [Server thread/INFO]: [Torcherino] AT_Studio(3a5760d5-ff07-3fb0-981a-a39c00d77bd5) placed a torcherino:wall_torcherino at -1544, 67, 922.
+[19:30:20] [Server thread/INFO]: [Torcherino] AT_Studio(3a5760d5-ff07-3fb0-981a-a39c00d77bd5) placed a torcherino:wall_torcherino at -1544, 67, 923.
+[19:30:24] [Server thread/INFO]: [Torcherino] AT_Studio(3a5760d5-ff07-3fb0-981a-a39c00d77bd5) placed a torcherino:wall_torcherino at -1544, 67, 924.
+[19:30:30] [Server thread/INFO]: [Torcherino] AT_Studio(3a5760d5-ff07-3fb0-981a-a39c00d77bd5) placed a torcherino:wall_torcherino at -1544, 67, 925.
+[19:31:31] [Server thread/INFO]: [AT_Studio: The difficulty has been set to Peaceful]
+[19:31:33] [Server thread/INFO]: [AT_Studio: The difficulty has been set to Hard]
+[19:59:01] [Server thread/INFO]: AT_Studio lost connection: Disconnected
+[19:59:01] [Server thread/INFO]: AT_Studio left the game
+[19:59:08] [Server thread/INFO]: Stopping the server
+[19:59:08] [Server thread/INFO]: Stopping server
+[19:59:08] [Server thread/INFO]: Saving players
+[19:59:08] [Server thread/INFO]: Saving worlds
+[19:59:08] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[19:59:09] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[19:59:09] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[19:59:09] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[19:59:09] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[19:59:09] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[19:59:09] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[19:59:09] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[19:59:09] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
