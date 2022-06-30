@@ -1,4 +1,4 @@
-[09:12:50] [main/INFO]: Loading 71 mods:
+[12:03:23] [main/INFO]: Loading 71 mods:
 	- architectury 1.32.63
 	- autoconfig1u 3.3.1
 	- blue_endless_jankson 1.2.0 via kyrptconfig
@@ -70,155 +70,197 @@
 	- roughlyenoughitems-runtime 5.12.385 via roughlyenoughitems
 	- torcherino 14.0.1
 	- woodenhoppers 1.0.0
-[09:12:50] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=file:/D:/minecraft/ChaChaServer/server/libraries/net/fabricmc/sponge-mixin/0.11.4+mixin.0.8.5/sponge-mixin-0.11.4+mixin.0.8.5.jar Service=Knot/Fabric Env=SERVER
-[09:12:51] [main/INFO]: Loaded configuration file for Lithium: 80 options available, 1 override(s) found
-[09:12:52] [main/WARN]: Force-disabling mixin 'world.player_chunk_tick.ThreadedAnvilChunkStorageMixin' as rule 'mixin.world.player_chunk_tick' (added by mods [krypton]) disables it and children
-[09:12:55] [main/INFO]: Using Java 9+ class definer
-[09:13:00] [main/INFO]: Starting provider: Item Tags
-[09:13:00] [main/INFO]: Item Tags finished after 1 ms
-[09:13:00] [main/INFO]: All providers took: 2 ms
-[09:13:01] [main/INFO]: Compression will use Java 11, encryption will use Java
-[09:13:02] [TISCM Mapping/INFO]: Yarn mapping file yarn-1.16.5+build.10-v2.tiny loaded
-[09:13:02] [main/INFO]: Ivan Carpet Addition 2.1.0 loaded
-[09:13:02] [main/INFO]: Thank you for using ICA!
-[09:13:02] [main/INFO]: ICA is open source, u can find it here: https://github.com/Ivan-1F/Ivan-Carpet-Addition
-[09:13:02] [main/INFO]: ICA is still in development, it may not work well
-[09:13:02] [main/INFO]: If u find any bug, please report them here: https://github.com/Ivan-1F/Ivan-Carpet-Addition/issues
-[09:13:02] [main/INFO]: Krypton is now accelerating your Minecraft server's networking stack ?
-[09:13:02] [main/INFO]: [STDOUT]: Starting Mo Glass...
-[09:13:03] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[09:13:04] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[09:13:04] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[09:13:04] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[09:13:04] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[09:13:04] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[09:13:04] [main/INFO]: Reloading ResourceManager: Default, Fabric Mods (Croptopia, Fabric Tool Attribute API (v1), Golden Hoppers, Improved Stations, Mo Glass, More Berries, Patchouli, Torcherino, Wooden Hoppers), RedPack - Quartz Stonecutter.zip, RedPack - Craftable Tall Grass.zip, RedPack - Craftable Large Fern.zip, RedPack - Fast Redstone Crafting.zip, RedPack - Red Sandstone to Red Sand.zip, RedPack - Enderman No Grief.zip, RedPack - Red Sandstone Crafting Compatibility.zip, RedPack - Wood Stonecutter.zip, RedPack - Craftable Corals.zip, RedPack - Husk Drops Sand.zip, RedPack - Craftable Colored Blocks.zip, RedPack - Craftable Dead Bushes.zip, RedPack - Craftable Shulker Shells.zip, RedPack - Craftable Player Heads.zip, RedPack - Craftable Elytra.zip, RedPack - Red Sandstone Stonecutter.zip, RedPack - Craftable Cobwebs.zip, RedPack - Quartz Crafting Compatibility.zip, RedPack - Slab to Full Block.zip, RedPack - Craftable Quartz.zip, RedPack - Sandstone Stonecutter.zip, RedPack - Craftable Bricks.zip, RedPack - Craftable Ice.zip, RedPack - Craftable Packed Ice.zip, RedPack - Sandstone to Sand.zip, RedPack - Sandstone Crafting Compatibility.zip, RedPack - Craftable Stripped Wood.zip, RedPack - Better Armor Stands.zip
-[09:13:05] [Worker-Main-6/INFO]: Loaded 7 recipes
-[09:13:05] [Worker-Main-6/INFO]: Loaded 1579 advancements
-[09:13:07] [main/INFO]: Applied 121 biome modifications to 28 of 79 new biomes in 28.24 ms
-[09:13:07] [Server thread/INFO]: Starting minecraft server version 1.16.5
-[09:13:07] [Server thread/INFO]: Loading properties
-[09:13:07] [Server thread/INFO]: Default game type: SURVIVAL
-[09:13:07] [Server thread/INFO]: Generating keypair
-[09:13:07] [Server thread/INFO]: Starting Minecraft server on *:25565
-[09:13:07] [Server thread/INFO]: Using default channel type
-[09:13:08] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[09:13:08] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[09:13:08] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[09:13:08] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[09:13:08] [Server thread/INFO]: Preparing level "world"
-[09:13:08] [Server thread/INFO]: [CM]: loaded setting dispensersFireDragonBreath as true from carpet.conf
-[09:13:08] [Server thread/INFO]: [CM]: loaded setting tooledTNT as true from carpet.conf
-[09:13:08] [Server thread/INFO]: [CM]: loaded setting hopperMinecartItemTransfer as true from carpet.conf
-[09:13:08] [Server thread/INFO]: [CM]: loaded setting renewableDragonHead as true from carpet.conf
-[09:13:08] [Server thread/INFO]: [CM]: loaded setting hopperNoItemCost as true from carpet.conf
-[09:13:08] [Server thread/INFO]: [CM]: loaded setting language as zh_cn from carpet.conf
-[09:13:08] [Server thread/INFO]: [CM]: loaded setting fogOff as true from carpet.conf
-[09:13:08] [Server thread/INFO]: [CM]: loaded setting renewableWitherSkeletons as true from carpet.conf
-[09:13:08] [Server thread/INFO]: [CM]: loaded setting spiderJockeysDropGapples as 100 from carpet.conf
-[09:13:08] [Server thread/INFO]: [CM]: loaded setting creativeOpenContainerForcibly as true from carpet.conf
-[09:13:08] [Server thread/INFO]: [CM]: loaded setting betterBonemeal as true from carpet.conf
-[09:13:08] [Server thread/INFO]: [CM]: loaded setting dragonEggBedrockBreaking as true from carpet.conf
-[09:13:08] [Server thread/INFO]: [CM]: loaded setting mobInFireConvertsSandToSoulsand as true from carpet.conf
-[09:13:08] [Server thread/INFO]: [CM]: loaded setting renewableLava as true from carpet.conf
-[09:13:08] [Server thread/INFO]: [CM]: loaded setting y0DragonEggBedrockBreaking as true from carpet.conf
-[09:13:08] [Server thread/INFO]: [CM]: loaded setting creeperDropCompletely as true from carpet.conf
-[09:13:08] [Server thread/INFO]: [CM]: loaded setting commandSpawn as true from carpet.conf
-[09:13:08] [Server thread/INFO]: [CM]: loaded setting shulkerSpawningInEndCities as true from carpet.conf
-[09:13:08] [Server thread/INFO]: [CM]: loaded setting largeBarrel as true from carpet.conf
-[09:13:08] [Server thread/INFO]: [CM]: loaded setting stackableShulkerBoxes as true from carpet.conf
-[09:13:08] [Server thread/INFO]: [CM]: loaded setting onePlayerSleeping as true from carpet.conf
-[09:13:08] [Server thread/INFO]: [CM]: loaded setting unbreakableHelmetInSunlight as true from carpet.conf
-[09:13:08] [Server thread/INFO]: [CM]: loaded setting functionalSpongeItem as true from carpet.conf
-[09:13:08] [Server thread/INFO]: [CM]: loaded setting smoothClientAnimations as true from carpet.conf
-[09:13:08] [Server thread/INFO]: [CM]: loaded setting persistentParrots as true from carpet.conf
-[09:13:08] [Server thread/INFO]: [CM]: loaded setting synchronizedLightThread as true from carpet.conf
-[09:13:08] [Server thread/INFO]: [CM]: loaded setting blockStateSyncing as true from carpet.conf
-[09:13:08] [Server thread/INFO]: [CM]: loaded setting wetSpongeAbsorbLava as true from carpet.conf
-[09:13:08] [Server thread/INFO]: [CM]: loaded setting clientSettingsLostOnRespawnFix as true from carpet.conf
-[09:13:08] [Server thread/INFO]: [CM]: loaded setting cauldronBlockItemInteractFix as true from carpet.conf
-[09:13:08] [Server thread/INFO]: [CM]: loaded setting editableSign as true from carpet.conf
-[09:13:08] [Server thread/INFO]: [CM]: loaded setting dispensersPlayRecords as true from carpet.conf
-[09:13:08] [Server thread/INFO]: [CM]: loaded setting endLightningRod as true from carpet.conf
-[09:13:08] [Server thread/INFO]: [CM]: loaded setting ctrlQCraftingFix as true from carpet.conf
-[09:13:08] [Server thread/INFO]: [CM]: loaded setting endermitesInconsistencyFix as true from carpet.conf
-[09:13:08] [Server thread/INFO]: [CM]: loaded setting xpTrackingDistance as 32.0 from carpet.conf
-[09:13:08] [Server thread/INFO]: [CM]: loaded setting optimizedFastEntityMovement as true from carpet.conf
-[09:13:08] [Server thread/INFO]: [CM]: loaded setting renewableSoulSand as true from carpet.conf
-[09:13:08] [Server thread/INFO]: [CM]: loaded setting enchantCommandNoRestriction as true from carpet.conf
-[09:13:08] [Server thread/INFO]: [CM]: loaded setting dragonsBreathConvertsCobbleToEndstone as true from carpet.conf
-[09:13:08] [Server thread/INFO]: [CM]: loaded setting renewableElytra as 1.0 from carpet.conf
-[09:13:08] [Server thread/INFO]: [CM]: loaded setting updateSuppressionCrashFix as true from carpet.conf
-[09:13:08] [Server thread/INFO]: [CM]: loaded setting reloadSuffocationFix as true from carpet.conf
-[09:13:08] [Server thread/INFO]: [CM]: loaded setting optimizedHardHitBoxEntityCollision as true from carpet.conf
-[09:13:08] [Server thread/INFO]: [CM]: loaded setting emptyShulkerBoxStackAlways as true from carpet.conf
-[09:13:08] [Server thread/INFO]: [CM]: loaded setting farmlandTrampledDisabled as true from carpet.conf
-[09:13:08] [Server thread/INFO]: [CM]: loaded setting commandOperator as 4 from carpet.conf
-[09:13:08] [Server thread/INFO]: [CM]: loaded setting flowerPotChunkLoading as true from carpet.conf
-[09:13:08] [Server thread/INFO]: [CM]: loaded setting fireChargeConvertsToNetherrack as true from carpet.conf
-[09:13:08] [Server thread/INFO]: [CM]: loaded setting blazeMeal as true from carpet.conf
-[09:13:08] [Server thread/INFO]: [CM]: loaded setting renewableSand as true from carpet.conf
-[09:13:08] [Server thread/INFO]: [CM]: loaded setting renewableDragonEgg as true from carpet.conf
-[09:13:08] [Server thread/INFO]: [CM]: loaded setting flippinCactus as true from carpet.conf
-[09:13:08] [Server thread/INFO]: [CM]: loaded setting lagFreeSpawning as true from carpet.conf
-[09:13:08] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[09:13:09] [Server thread/INFO]: Preparing spawn area: 0%
-[09:13:09] [Server thread/INFO]: Preparing spawn area: 0%
-[09:13:09] [Server thread/INFO]: Preparing spawn area: 0%
-[09:13:10] [Server thread/INFO]: Preparing spawn area: 0%
-[09:13:10] [Server thread/INFO]: Time elapsed: 1950 ms
-[09:13:10] [Server thread/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[09:13:10] [Server thread/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[09:13:10] [Server thread/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[09:13:10] [Server thread/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[09:13:10] [Server thread/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[09:13:10] [Server thread/INFO]: Reloading ResourceManager: Default, Fabric Mods (Croptopia, Fabric Tool Attribute API (v1), Golden Hoppers, Improved Stations, Mo Glass, More Berries, Patchouli, Torcherino, Wooden Hoppers)
-[09:13:10] [Server thread/INFO]: Loaded 7 recipes
-[09:13:11] [Server thread/INFO]: Loaded 947 advancements
-[09:13:11] [Server thread/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[09:13:11] [Server thread/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[09:13:11] [Server thread/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[09:13:11] [Server thread/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[09:13:11] [Server thread/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[09:13:11] [Server thread/INFO]: Reloading ResourceManager: Default, Fabric Mods (Croptopia, Fabric Tool Attribute API (v1), Golden Hoppers, Improved Stations, Mo Glass, More Berries, Patchouli, Torcherino, Wooden Hoppers), RedPack - Quartz Stonecutter.zip, RedPack - Craftable Tall Grass.zip, RedPack - Craftable Large Fern.zip, RedPack - Fast Redstone Crafting.zip, RedPack - Red Sandstone to Red Sand.zip, RedPack - Enderman No Grief.zip, RedPack - Red Sandstone Crafting Compatibility.zip, RedPack - Wood Stonecutter.zip, RedPack - Craftable Corals.zip, RedPack - Husk Drops Sand.zip, RedPack - Craftable Colored Blocks.zip, RedPack - Craftable Dead Bushes.zip, RedPack - Craftable Shulker Shells.zip, RedPack - Craftable Player Heads.zip, RedPack - Craftable Elytra.zip, RedPack - Red Sandstone Stonecutter.zip, RedPack - Craftable Cobwebs.zip, RedPack - Quartz Crafting Compatibility.zip, RedPack - Slab to Full Block.zip, RedPack - Craftable Quartz.zip, RedPack - Sandstone Stonecutter.zip, RedPack - Craftable Bricks.zip, RedPack - Craftable Ice.zip, RedPack - Craftable Packed Ice.zip, RedPack - Sandstone to Sand.zip, RedPack - Sandstone Crafting Compatibility.zip, RedPack - Craftable Stripped Wood.zip, RedPack - Better Armor Stands.zip
-[09:13:12] [Server thread/INFO]: Loaded 7 recipes
-[09:13:12] [Server thread/INFO]: Loaded 1579 advancements
-[09:13:13] [Server thread/INFO]: App placeableplants loaded in 55 ms
-[09:13:13] [Server thread/INFO]: App colorableshulkers loaded in 12 ms
-[09:13:13] [Server thread/WARN]: 'entity_load_handler() with single argument callback' is deprecated and soon will be removed. Please consult the docs for their replacement
-[09:13:13] [Server thread/INFO]: 'entity_load_handler() with single argument callback' is deprecated and soon will be removed. Please consult the docs for their replacement
-[09:13:13] [Server thread/INFO]: App dragoneggrespawns loaded in 74 ms
-[09:13:13] [Server thread/WARN]: 'entity_load_handler() with single argument callback' is deprecated and soon will be removed. Please consult the docs for their replacement
-[09:13:13] [Server thread/INFO]: 'entity_load_handler() with single argument callback' is deprecated and soon will be removed. Please consult the docs for their replacement
-[09:13:13] [Server thread/INFO]: Error while evaluating expression: 
+[12:03:23] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=file:/D:/minecraft/ChaChaServer/server/libraries/net/fabricmc/sponge-mixin/0.11.4+mixin.0.8.5/sponge-mixin-0.11.4+mixin.0.8.5.jar Service=Knot/Fabric Env=SERVER
+[12:03:23] [main/INFO]: Loaded configuration file for Lithium: 80 options available, 1 override(s) found
+[12:03:24] [main/WARN]: Force-disabling mixin 'world.player_chunk_tick.ThreadedAnvilChunkStorageMixin' as rule 'mixin.world.player_chunk_tick' (added by mods [krypton]) disables it and children
+[12:03:26] [main/INFO]: Using Java 9+ class definer
+[12:03:31] [main/INFO]: Starting provider: Item Tags
+[12:03:31] [main/INFO]: Item Tags finished after 1 ms
+[12:03:31] [main/INFO]: All providers took: 2 ms
+[12:03:31] [main/INFO]: Compression will use Java 11, encryption will use Java
+[12:03:32] [TISCM Mapping/INFO]: Yarn mapping file yarn-1.16.5+build.10-v2.tiny loaded
+[12:03:32] [main/INFO]: Ivan Carpet Addition 2.1.0 loaded
+[12:03:32] [main/INFO]: Thank you for using ICA!
+[12:03:32] [main/INFO]: ICA is open source, u can find it here: https://github.com/Ivan-1F/Ivan-Carpet-Addition
+[12:03:32] [main/INFO]: ICA is still in development, it may not work well
+[12:03:32] [main/INFO]: If u find any bug, please report them here: https://github.com/Ivan-1F/Ivan-Carpet-Addition/issues
+[12:03:32] [main/INFO]: Krypton is now accelerating your Minecraft server's networking stack ?
+[12:03:32] [main/INFO]: [STDOUT]: Starting Mo Glass...
+[12:03:33] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[12:03:34] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[12:03:34] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[12:03:34] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[12:03:34] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[12:03:34] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[12:03:34] [main/INFO]: Reloading ResourceManager: Default, Fabric Mods (Croptopia, Fabric Tool Attribute API (v1), Golden Hoppers, Improved Stations, Mo Glass, More Berries, Patchouli, Torcherino, Wooden Hoppers), RedPack - Quartz Stonecutter.zip, RedPack - Craftable Tall Grass.zip, RedPack - Craftable Large Fern.zip, RedPack - Fast Redstone Crafting.zip, RedPack - Red Sandstone to Red Sand.zip, RedPack - Enderman No Grief.zip, RedPack - Red Sandstone Crafting Compatibility.zip, RedPack - Wood Stonecutter.zip, RedPack - Craftable Corals.zip, RedPack - Husk Drops Sand.zip, RedPack - Craftable Colored Blocks.zip, RedPack - Craftable Dead Bushes.zip, RedPack - Craftable Shulker Shells.zip, RedPack - Craftable Player Heads.zip, RedPack - Craftable Elytra.zip, RedPack - Red Sandstone Stonecutter.zip, RedPack - Craftable Cobwebs.zip, RedPack - Quartz Crafting Compatibility.zip, RedPack - Slab to Full Block.zip, RedPack - Craftable Quartz.zip, RedPack - Sandstone Stonecutter.zip, RedPack - Craftable Bricks.zip, RedPack - Craftable Ice.zip, RedPack - Craftable Packed Ice.zip, RedPack - Sandstone to Sand.zip, RedPack - Sandstone Crafting Compatibility.zip, RedPack - Craftable Stripped Wood.zip, RedPack - Better Armor Stands.zip
+[12:03:35] [Worker-Main-5/INFO]: Loaded 7 recipes
+[12:03:35] [Worker-Main-5/INFO]: Loaded 1579 advancements
+[12:03:36] [main/INFO]: Applied 121 biome modifications to 28 of 79 new biomes in 23.42 ms
+[12:03:37] [Server thread/INFO]: Starting minecraft server version 1.16.5
+[12:03:37] [Server thread/INFO]: Loading properties
+[12:03:37] [Server thread/INFO]: Default game type: SURVIVAL
+[12:03:37] [Server thread/INFO]: Generating keypair
+[12:03:37] [Server thread/INFO]: Starting Minecraft server on *:25565
+[12:03:37] [Server thread/INFO]: Using default channel type
+[12:03:37] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[12:03:37] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[12:03:37] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[12:03:37] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[12:03:37] [Server thread/INFO]: Preparing level "world"
+[12:03:37] [Server thread/INFO]: [CM]: loaded setting dispensersFireDragonBreath as true from carpet.conf
+[12:03:37] [Server thread/INFO]: [CM]: loaded setting tooledTNT as true from carpet.conf
+[12:03:37] [Server thread/INFO]: [CM]: loaded setting hopperMinecartItemTransfer as true from carpet.conf
+[12:03:37] [Server thread/INFO]: [CM]: loaded setting renewableDragonHead as true from carpet.conf
+[12:03:37] [Server thread/INFO]: [CM]: loaded setting hopperNoItemCost as true from carpet.conf
+[12:03:37] [Server thread/INFO]: [CM]: loaded setting language as zh_cn from carpet.conf
+[12:03:37] [Server thread/INFO]: [CM]: loaded setting fogOff as true from carpet.conf
+[12:03:37] [Server thread/INFO]: [CM]: loaded setting renewableWitherSkeletons as true from carpet.conf
+[12:03:37] [Server thread/INFO]: [CM]: loaded setting spiderJockeysDropGapples as 100 from carpet.conf
+[12:03:37] [Server thread/INFO]: [CM]: loaded setting creativeOpenContainerForcibly as true from carpet.conf
+[12:03:37] [Server thread/INFO]: [CM]: loaded setting betterBonemeal as true from carpet.conf
+[12:03:37] [Server thread/INFO]: [CM]: loaded setting dragonEggBedrockBreaking as true from carpet.conf
+[12:03:37] [Server thread/INFO]: [CM]: loaded setting mobInFireConvertsSandToSoulsand as true from carpet.conf
+[12:03:37] [Server thread/INFO]: [CM]: loaded setting renewableLava as true from carpet.conf
+[12:03:37] [Server thread/INFO]: [CM]: loaded setting y0DragonEggBedrockBreaking as true from carpet.conf
+[12:03:37] [Server thread/INFO]: [CM]: loaded setting creeperDropCompletely as true from carpet.conf
+[12:03:37] [Server thread/INFO]: [CM]: loaded setting commandSpawn as true from carpet.conf
+[12:03:37] [Server thread/INFO]: [CM]: loaded setting shulkerSpawningInEndCities as true from carpet.conf
+[12:03:37] [Server thread/INFO]: [CM]: loaded setting largeBarrel as true from carpet.conf
+[12:03:37] [Server thread/INFO]: [CM]: loaded setting stackableShulkerBoxes as true from carpet.conf
+[12:03:37] [Server thread/INFO]: [CM]: loaded setting onePlayerSleeping as true from carpet.conf
+[12:03:37] [Server thread/INFO]: [CM]: loaded setting unbreakableHelmetInSunlight as true from carpet.conf
+[12:03:37] [Server thread/INFO]: [CM]: loaded setting functionalSpongeItem as true from carpet.conf
+[12:03:37] [Server thread/INFO]: [CM]: loaded setting smoothClientAnimations as true from carpet.conf
+[12:03:37] [Server thread/INFO]: [CM]: loaded setting persistentParrots as true from carpet.conf
+[12:03:37] [Server thread/INFO]: [CM]: loaded setting synchronizedLightThread as true from carpet.conf
+[12:03:37] [Server thread/INFO]: [CM]: loaded setting blockStateSyncing as true from carpet.conf
+[12:03:37] [Server thread/INFO]: [CM]: loaded setting wetSpongeAbsorbLava as true from carpet.conf
+[12:03:37] [Server thread/INFO]: [CM]: loaded setting clientSettingsLostOnRespawnFix as true from carpet.conf
+[12:03:37] [Server thread/INFO]: [CM]: loaded setting cauldronBlockItemInteractFix as true from carpet.conf
+[12:03:37] [Server thread/INFO]: [CM]: loaded setting editableSign as true from carpet.conf
+[12:03:37] [Server thread/INFO]: [CM]: loaded setting dispensersPlayRecords as true from carpet.conf
+[12:03:37] [Server thread/INFO]: [CM]: loaded setting endLightningRod as true from carpet.conf
+[12:03:37] [Server thread/INFO]: [CM]: loaded setting ctrlQCraftingFix as true from carpet.conf
+[12:03:37] [Server thread/INFO]: [CM]: loaded setting endermitesInconsistencyFix as true from carpet.conf
+[12:03:37] [Server thread/INFO]: [CM]: loaded setting xpTrackingDistance as 32.0 from carpet.conf
+[12:03:37] [Server thread/INFO]: [CM]: loaded setting optimizedFastEntityMovement as true from carpet.conf
+[12:03:37] [Server thread/INFO]: [CM]: loaded setting renewableSoulSand as true from carpet.conf
+[12:03:37] [Server thread/INFO]: [CM]: loaded setting enchantCommandNoRestriction as true from carpet.conf
+[12:03:37] [Server thread/INFO]: [CM]: loaded setting dragonsBreathConvertsCobbleToEndstone as true from carpet.conf
+[12:03:37] [Server thread/INFO]: [CM]: loaded setting renewableElytra as 1.0 from carpet.conf
+[12:03:37] [Server thread/INFO]: [CM]: loaded setting updateSuppressionCrashFix as true from carpet.conf
+[12:03:37] [Server thread/INFO]: [CM]: loaded setting reloadSuffocationFix as true from carpet.conf
+[12:03:37] [Server thread/INFO]: [CM]: loaded setting optimizedHardHitBoxEntityCollision as true from carpet.conf
+[12:03:37] [Server thread/INFO]: [CM]: loaded setting emptyShulkerBoxStackAlways as true from carpet.conf
+[12:03:37] [Server thread/INFO]: [CM]: loaded setting farmlandTrampledDisabled as true from carpet.conf
+[12:03:37] [Server thread/INFO]: [CM]: loaded setting commandOperator as 4 from carpet.conf
+[12:03:37] [Server thread/INFO]: [CM]: loaded setting flowerPotChunkLoading as true from carpet.conf
+[12:03:37] [Server thread/INFO]: [CM]: loaded setting fireChargeConvertsToNetherrack as true from carpet.conf
+[12:03:37] [Server thread/INFO]: [CM]: loaded setting blazeMeal as true from carpet.conf
+[12:03:37] [Server thread/INFO]: [CM]: loaded setting renewableSand as true from carpet.conf
+[12:03:37] [Server thread/INFO]: [CM]: loaded setting renewableDragonEgg as true from carpet.conf
+[12:03:37] [Server thread/INFO]: [CM]: loaded setting flippinCactus as true from carpet.conf
+[12:03:37] [Server thread/INFO]: [CM]: loaded setting lagFreeSpawning as true from carpet.conf
+[12:03:38] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[12:03:40] [Server thread/INFO]: Preparing spawn area: 0%
+[12:03:40] [Server thread/INFO]: Preparing spawn area: 0%
+[12:03:40] [Server thread/INFO]: Preparing spawn area: 0%
+[12:03:40] [Server thread/INFO]: Preparing spawn area: 0%
+[12:03:40] [Server thread/INFO]: Time elapsed: 2064 ms
+[12:03:40] [Server thread/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[12:03:40] [Server thread/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[12:03:40] [Server thread/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[12:03:40] [Server thread/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[12:03:40] [Server thread/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[12:03:40] [Server thread/INFO]: Reloading ResourceManager: Default, Fabric Mods (Croptopia, Fabric Tool Attribute API (v1), Golden Hoppers, Improved Stations, Mo Glass, More Berries, Patchouli, Torcherino, Wooden Hoppers)
+[12:03:41] [Server thread/INFO]: Loaded 7 recipes
+[12:03:41] [Server thread/INFO]: Loaded 947 advancements
+[12:03:42] [Server thread/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[12:03:42] [Server thread/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[12:03:42] [Server thread/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[12:03:42] [Server thread/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[12:03:42] [Server thread/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[12:03:42] [Server thread/INFO]: Reloading ResourceManager: Default, Fabric Mods (Croptopia, Fabric Tool Attribute API (v1), Golden Hoppers, Improved Stations, Mo Glass, More Berries, Patchouli, Torcherino, Wooden Hoppers), RedPack - Quartz Stonecutter.zip, RedPack - Craftable Tall Grass.zip, RedPack - Craftable Large Fern.zip, RedPack - Fast Redstone Crafting.zip, RedPack - Red Sandstone to Red Sand.zip, RedPack - Enderman No Grief.zip, RedPack - Red Sandstone Crafting Compatibility.zip, RedPack - Wood Stonecutter.zip, RedPack - Craftable Corals.zip, RedPack - Husk Drops Sand.zip, RedPack - Craftable Colored Blocks.zip, RedPack - Craftable Dead Bushes.zip, RedPack - Craftable Shulker Shells.zip, RedPack - Craftable Player Heads.zip, RedPack - Craftable Elytra.zip, RedPack - Red Sandstone Stonecutter.zip, RedPack - Craftable Cobwebs.zip, RedPack - Quartz Crafting Compatibility.zip, RedPack - Slab to Full Block.zip, RedPack - Craftable Quartz.zip, RedPack - Sandstone Stonecutter.zip, RedPack - Craftable Bricks.zip, RedPack - Craftable Ice.zip, RedPack - Craftable Packed Ice.zip, RedPack - Sandstone to Sand.zip, RedPack - Sandstone Crafting Compatibility.zip, RedPack - Craftable Stripped Wood.zip, RedPack - Better Armor Stands.zip
+[12:03:42] [Server thread/INFO]: Loaded 7 recipes
+[12:03:43] [Server thread/INFO]: Loaded 1579 advancements
+[12:03:43] [Server thread/INFO]: App placeableplants loaded in 42 ms
+[12:03:43] [Server thread/INFO]: App colorableshulkers loaded in 5 ms
+[12:03:43] [Server thread/WARN]: 'entity_load_handler() with single argument callback' is deprecated and soon will be removed. Please consult the docs for their replacement
+[12:03:43] [Server thread/INFO]: 'entity_load_handler() with single argument callback' is deprecated and soon will be removed. Please consult the docs for their replacement
+[12:03:43] [Server thread/INFO]: App dragoneggrespawns loaded in 53 ms
+[12:03:43] [Server thread/WARN]: 'entity_load_handler() with single argument callback' is deprecated and soon will be removed. Please consult the docs for their replacement
+[12:03:43] [Server thread/INFO]: 'entity_load_handler() with single argument callback' is deprecated and soon will be removed. Please consult the docs for their replacement
+[12:03:43] [Server thread/INFO]: Error while evaluating expression: 
  HERE>> entity_load_handler('glow_item_frame', '_check_custom_drop');
 for(entity_list('glow_item_frame'), _check_custom_drop(_))
 glow_item_frame is not a valid entity descriptor in betteritemframes at line 42, pos 1
-[09:13:13] [Server thread/INFO]: Failed to add betteritemframes app
-[09:13:13] [Server thread/INFO]: App villagerleash loaded in 4 ms
-[09:13:13] [Server thread/INFO]: App playerme loaded in 62 ms
-[09:13:13] [Server thread/INFO]: App crumbleconcrete loaded in 2 ms
-[09:13:13] [Server thread/INFO]: App horsestats loaded in 3 ms
-[09:13:13] [Server thread/WARN]: 'entity_load_handler() with single argument callback' is deprecated and soon will be removed. Please consult the docs for their replacement
-[09:13:13] [Server thread/INFO]: 'entity_load_handler() with single argument callback' is deprecated and soon will be removed. Please consult the docs for their replacement
-[09:13:13] [Server thread/INFO]: App morewanderingtrades loaded in 15 ms
-[09:13:13] [Server thread/INFO]: App silkyblockstates loaded in 19 ms
-[09:13:13] [Server thread/INFO]: App prunedplants loaded in 4 ms
-[09:13:13] [Server thread/INFO]: App lastdeathcompass loaded in 7 ms
-[09:13:13] [Server thread/INFO]: App specialnametags loaded in 9 ms
-[09:13:13] [Server thread/INFO]: App locateplayer loaded in 8 ms
-[09:13:13] [Server thread/WARN]: 'reading or modifying an objective's criterion with scoreboard_add' is deprecated and soon will be removed. Please consult the docs for their replacement
-[09:13:13] [Server thread/INFO]: 'reading or modifying an objective's criterion with scoreboard_add' is deprecated and soon will be removed. Please consult the docs for their replacement
-[09:13:13] [Server thread/INFO]: App graves loaded in 13 ms
-[09:13:13] [Server thread/INFO]: App skull loaded in 14 ms
-[09:13:13] [Server thread/INFO]: App sitanywhere loaded in 5 ms
-[09:13:13] [Server thread/INFO]: App waystone loaded in 8 ms
-[09:13:13] [Server thread/INFO]: App treecapitator loaded in 15 ms
-[09:13:13] [Server thread/INFO]: App ropes loaded in 6 ms
-[09:13:13] [Server thread/INFO]: App floatingladders loaded in 3 ms
-[09:13:13] [Server thread/INFO]: App revivecoral loaded in 2 ms
-[09:13:14] [Server thread/WARN]: 'reading or modifying an objective's criterion with scoreboard_add' is deprecated and soon will be removed. Please consult the docs for their replacement
-[09:13:14] [Server thread/INFO]: 'reading or modifying an objective's criterion with scoreboard_add' is deprecated and soon will be removed. Please consult the docs for their replacement
-[09:13:14] [Server thread/INFO]: App stats loaded in 11 ms
-[09:13:14] [Server thread/INFO]: App timebar loaded in 5 ms
-[09:13:14] [Server thread/INFO]: Done (5.923s)! For help, type "help"
+[12:03:43] [Server thread/INFO]: Failed to add betteritemframes app
+[12:03:43] [Server thread/INFO]: App villagerleash loaded in 8 ms
+[12:03:43] [Server thread/INFO]: App playerme loaded in 90 ms
+[12:03:43] [Server thread/INFO]: App crumbleconcrete loaded in 4 ms
+[12:03:43] [Server thread/INFO]: App horsestats loaded in 6 ms
+[12:03:43] [Server thread/WARN]: 'entity_load_handler() with single argument callback' is deprecated and soon will be removed. Please consult the docs for their replacement
+[12:03:43] [Server thread/INFO]: 'entity_load_handler() with single argument callback' is deprecated and soon will be removed. Please consult the docs for their replacement
+[12:03:43] [Server thread/INFO]: App morewanderingtrades loaded in 25 ms
+[12:03:43] [Server thread/INFO]: App silkyblockstates loaded in 34 ms
+[12:03:43] [Server thread/INFO]: App prunedplants loaded in 3 ms
+[12:03:43] [Server thread/INFO]: App lastdeathcompass loaded in 9 ms
+[12:03:43] [Server thread/INFO]: App specialnametags loaded in 13 ms
+[12:03:43] [Server thread/INFO]: App locateplayer loaded in 8 ms
+[12:03:43] [Server thread/WARN]: 'reading or modifying an objective's criterion with scoreboard_add' is deprecated and soon will be removed. Please consult the docs for their replacement
+[12:03:43] [Server thread/INFO]: 'reading or modifying an objective's criterion with scoreboard_add' is deprecated and soon will be removed. Please consult the docs for their replacement
+[12:03:43] [Server thread/INFO]: App graves loaded in 19 ms
+[12:03:43] [Server thread/INFO]: App skull loaded in 17 ms
+[12:03:43] [Server thread/INFO]: App sitanywhere loaded in 5 ms
+[12:03:43] [Server thread/INFO]: App waystone loaded in 21 ms
+[12:03:43] [Server thread/INFO]: App treecapitator loaded in 20 ms
+[12:03:43] [Server thread/INFO]: App ropes loaded in 5 ms
+[12:03:43] [Server thread/INFO]: App floatingladders loaded in 7 ms
+[12:03:43] [Server thread/INFO]: App revivecoral loaded in 3 ms
+[12:03:43] [Server thread/WARN]: 'reading or modifying an objective's criterion with scoreboard_add' is deprecated and soon will be removed. Please consult the docs for their replacement
+[12:03:43] [Server thread/INFO]: 'reading or modifying an objective's criterion with scoreboard_add' is deprecated and soon will be removed. Please consult the docs for their replacement
+[12:03:43] [Server thread/INFO]: App stats loaded in 16 ms
+[12:03:43] [Server thread/INFO]: App timebar loaded in 9 ms
+[12:03:43] [Server thread/INFO]: Done (6.103s)! For help, type "help"
+[12:05:13] [Netty Server IO #2/WARN]: Method overwrite conflict for getLanguage in carpet-tis-addition.mixins.json:translations.ClientSettingsC2SPacketAccessor from mod carpet-tis-addition, previously written by carpet.mixins.ClientSettingsC2SPacket_scarpetMixin. Skipping method.
+[12:05:15] [Server thread/INFO]: AT_Studio[/127.0.0.1:54175] logged in with entity id 75 at (-1569.2695811652447, 88.11189205280886, 975.6897832388047)
+[12:05:15] [Server thread/INFO]: AT_Studio joined the game
+[12:05:18] [Netty Server IO #3/INFO]: Player AT_Studio joined with a matching carpet client
+[12:13:49] [Server thread/INFO]: [AT_Studio: Set own game mode to Survival Mode]
+[12:13:55] [Server thread/INFO]: [AT_Studio: Set own game mode to Creative Mode]
+[13:10:57] [Server thread/INFO]: AT_Studio has made the advancement [What a Deal!]
+[13:13:59] [Server thread/INFO]: [AT_Studio: Set own game mode to Survival Mode]
+[13:14:07] [Server thread/INFO]: [AT_Studio: Set own game mode to Creative Mode]
+[13:35:05] [Server thread/INFO]: AT_Studio has made the advancement [Who is Cutting Onions?]
+[13:42:33] [Server thread/INFO]: [AT_Studio: Set own game mode to Survival Mode]
+[13:42:36] [Server thread/INFO]: [AT_Studio: Set own game mode to Spectator Mode]
+[13:42:39] [Server thread/INFO]: [AT_Studio: Set own game mode to Creative Mode]
+[13:43:01] [Server thread/INFO]: [AT_Studio: Set own game mode to Spectator Mode]
+[13:43:04] [Server thread/INFO]: [AT_Studio: Set own game mode to Creative Mode]
+[13:44:29] [Server thread/INFO]: [AT_Studio: Set own game mode to Spectator Mode]
+[13:44:31] [Server thread/INFO]: [AT_Studio: Set own game mode to Creative Mode]
+[14:01:26] [Server thread/INFO]: [AT_Studio: Set own game mode to Spectator Mode]
+[14:01:29] [Server thread/INFO]: [AT_Studio: Set own game mode to Creative Mode]
+[14:05:00] [Server thread/INFO]: AT_Studio lost connection: Disconnected
+[14:05:00] [Server thread/INFO]: AT_Studio left the game
+[19:22:25] [Server thread/INFO]: There are 0 of a max of 20 players online: 
+[20:49:48] [Server thread/INFO]: AT_Studio[/127.0.0.1:57783] logged in with entity id 11662 at (-1570.1382266330313, 71.0, 964.5108820029124)
+[20:49:49] [Server thread/INFO]: AT_Studio joined the game
+[20:49:49] [Netty Server IO #7/INFO]: Player AT_Studio joined with a matching carpet client
+[21:09:36] [Server thread/INFO]: [AT_Studio: Set own game mode to Spectator Mode]
+[21:11:55] [Server thread/INFO]: [AT_Studio: Set own game mode to Creative Mode]
+[21:25:41] [Server thread/INFO]: AT_Studio lost connection: Disconnected
+[21:25:41] [Server thread/INFO]: AT_Studio left the game
+[21:25:51] [Server thread/INFO]: Stopping the server
+[21:25:51] [Server thread/INFO]: Stopping server
+[21:25:51] [Server thread/INFO]: Saving players
+[21:25:51] [Server thread/INFO]: Saving worlds
+[21:25:51] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[21:25:51] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[21:25:51] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[21:25:51] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[21:25:51] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[21:25:51] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[21:25:51] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[21:25:51] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[21:25:51] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
